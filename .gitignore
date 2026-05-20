@@ -1,0 +1,17 @@
+# cache & results
+cache/
+results/
+index/
+
+# large binary files
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# misc
+*.png
+samples.png
