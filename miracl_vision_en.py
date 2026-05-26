@@ -48,15 +48,27 @@ def compute_ndcg_set(ranked_indices, gt_set, k):
 def create_plaid_index(ps, device=DEVICE):
     if not importlib.util.find_spec("fast_plaid"):
         raise ImportError("pip install --no-deps fast-plaid fastkmeans")
-    
+
+    index_dir = Path("index")
+    meta_path = index_dir / "metadata.json"
+
+    # 기존 index가 있고 corpus 크기가 일치하면 재빌드 없이 로드
+    if meta_path.exists():
+        meta = json.loads(meta_path.read_text())
+        if meta.get("num_documents") == len(ps):
+            print(f"  Loading existing PLAID index ({meta['num_documents']:,} docs)...")
+            return search.FastPlaid(index=str(index_dir), device=device)
+        else:
+            print(f"  Index size mismatch ({meta.get('num_documents')} vs {len(ps)}), rebuilding...")
+
     torch.cuda.empty_cache()
     try:
-        index = search.FastPlaid(index="index", device=device, low_memory=False)
+        index = search.FastPlaid(index=str(index_dir), device=device, low_memory=False)
         index.create(documents_embeddings=[d.to(device).to(torch.float16) for d in ps])
     except torch.cuda.OutOfMemoryError:
         print(f"  WARNING: {device} OOM during index build — retrying on CPU...")
         torch.cuda.empty_cache()
-        index = search.FastPlaid(index="index")
+        index = search.FastPlaid(index=str(index_dir))
         index.create(documents_embeddings=[d.cpu().to(torch.float16) for d in ps])
     return index
 
