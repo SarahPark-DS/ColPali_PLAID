@@ -1,0 +1,70 @@
+{
+  "timestamp": "20260625_125839",
+  "dataset": "vidore/syntheticDocQA_government_reports_test",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 100,
+  "img_emb_time_s": 0.166,
+  "naive": {
+    "recall@1": 0.91,
+    "ndcg@5": 0.9604,
+    "ndcg@10": 0.9604,
+    "search_time_s": 0.124,
+    "total_time_s": 0.29
+  },
+  "fast_plaid": {
+    "recall@1": 0.9,
+    "ndcg@5": 0.9554,
+    "ndcg@10": 0.9554,
+    "index_build_time_s": 7.152,
+    "search_time_s": 8.711,
+    "total_time_s": 16.029
+  },
+  "global_centroid": {
+    "recall@1": 0.91,
+    "ndcg@5": 0.9604,
+    "ndcg@10": 0.9604,
+    "search_time_s": 42.479,
+    "pruning_rate": 0.0,
+    "total_time_s": 42.645,
+    "avg_ubound_range": [
+      23.0086,
+      35.564
+    ],
+    "avg_score_range": [
+      4.7546,
+      19.5638
+    ]
+  },
+  "block_centroid": {
+    "recall@1": 0.91,
+    "ndcg@5": 0.9604,
+    "ndcg@10": 0.9604,
+    "search_time_s": 42.312,
+    "pruning_rate": 0.0,
+    "total_time_s": 42.478,
+    "avg_ubound_range": [
+      23.2966,
+      36.3375
+    ],
+    "avg_score_range": [
+      4.7546,
+      19.5638
+    ]
+  },
+  "box_bound": {
+    "recall@1": 0.91,
+    "ndcg@5": 0.9604,
+    "ndcg@10": 0.9604,
+    "search_time_s": 41.977,
+    "pruning_rate": 0.0,
+    "total_time_s": 42.143,
+    "avg_ubound_range": [
+      23.6406,
+      54.4763
+    ],
+    "avg_score_range": [
+      4.7546,
+      19.5638
+    ]
+  }
+}

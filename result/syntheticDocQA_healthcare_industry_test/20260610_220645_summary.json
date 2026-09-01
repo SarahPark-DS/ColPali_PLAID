@@ -1,0 +1,38 @@
+{
+  "timestamp": "20260610_220645",
+  "dataset": "vidore/syntheticDocQA_healthcare_industry_test",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 100,
+  "img_emb_time_s": 0.172,
+  "naive": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 0.124,
+    "total_time_s": 0.296
+  },
+  "fast_plaid": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "index_build_time_s": 7.092,
+    "search_time_s": 9.981,
+    "total_time_s": 17.244
+  },
+  "our_method": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 41.821,
+    "pruning_rate": 0.0,
+    "total_time_s": 41.993,
+    "avg_ubound_range": [
+      0.0,
+      0.0
+    ],
+    "avg_score_range": [
+      0.0,
+      0.0
+    ]
+  }
+}

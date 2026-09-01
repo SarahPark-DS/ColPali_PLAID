@@ -1,0 +1,101 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,"What types of road improvements are planned for Greenmount Road in Belleville, Illinois?",0,0,20.2963,True,1.0,1.0,0,20.2458,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+1,How did the average miles per shipment for single modes change from 1997 to 2007?,1,1,26.4433,True,1.0,1.0,1,26.0718,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,What is the total greenhouse gas reduction in metric tons projected for 2050 across all measures listed?,2,2,23.7631,True,1.0,1.0,2,23.4817,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+3,What is the importance of accurate estimation of available PV power according to the text?,3,3,21.3105,True,1.0,1.0,3,21.2896,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+4,What are some potential vulnerabilities of underground nuclear power plants?,4,4,17.3107,True,1.0,1.0,4,17.1465,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+5,What are the two different closed-system mechanically reversible processes described in the example?,5,5,20.4474,True,1.0,1.0,5,20.3755,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+6,What information is being requested for the controlled correspondence office?,6,6,15.8379,True,1.0,1.0,6,15.8799,True,1.0,1.0,6,True,1.0,1.0,0,0,0,0
+7,Which county is the reconstruction project on Pierce Lane located in?,7,7,17.5586,True,1.0,1.0,7,17.5474,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+8,How is the Authority addressing concerns related to the San Francisco to San Jose environmental document?,8,8,20.9808,True,1.0,1.0,8,20.8857,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+9,What is different about PG&E's pipeline constraints and operating conditions compared to Southern California Gas Company?,9,9,19.7393,True,1.0,1.0,9,19.7214,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+10,What is the expected revenue for the power production company in the given quarter?,10,10,19.7765,True,1.0,1.0,10,19.3379,True,1.0,1.0,10,True,1.0,1.0,0,0,0,0
+11,At what temperature and pressure conditions is the reaction vessel maintained?,11,11,17.7747,True,1.0,1.0,11,17.6367,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+12,What caused the price of wholesale electricity to significantly increase in 2017 and 2018 at SoCal Citygate?,12,12,27.4542,True,1.0,1.0,12,27.3396,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+13,What is the purpose of a configuration footprint in the Staged Project Delivery Process?,13,13,20.7872,True,1.0,1.0,13,20.4438,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+14,Who is the Governmental Affairs Agent listed on Schedule F - Travel/Lodging?,14,14,20.5392,True,1.0,1.0,14,20.4844,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+15,What types of highway improvements are listed for US 150 in Champaign County?,15,15,21.1356,True,1.0,1.0,15,21.082,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+16,Which car model from Aston Martin is categorized as a Subcompact Car?,16,16,19.4462,True,1.0,1.0,16,19.4014,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+17,What are the nodes and links in a power grid graph representation?,17,17,20.6919,True,1.0,1.0,17,20.5137,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+18,"How is the heat transferred in a mechanically reversible, constant-pressure process related to the constant-pressure heat capacity?",5,5,28.0826,True,1.0,1.0,5,28.0415,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+19,What are some factors affecting public opinion on nuclear energy in the United States?,18,18,20.8846,True,1.0,1.0,18,20.9099,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+20,Why are the strategies found within this plan meant to address transportation equity?,19,19,20.3506,True,1.0,1.0,19,20.2842,True,1.0,1.0,19,True,1.0,1.0,0,0,0,0
+21,What could cause the 'Transformer Temp unreadable' fault?,20,20,16.7346,True,1.0,1.0,20,16.5254,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+22,What types of highway improvements are listed for District 9 in Illinois?,21,576,20.4212,False,0.0,0.0,576,20.4409,False,0.0,0.0,576,False,0.0,0.0,0,0,0,0
+23,How can energy storage play a role in enabling cost-effective integration of PV generation?,22,22,22.2137,True,1.0,1.0,22,22.1323,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+24,What is the procedure to populate the master data to the operational store?,23,23,18.3405,True,1.0,1.0,23,18.27,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+25,What percentage of EIB Group's 2022 gross mobility emissions came from business travel flights?,24,24,25.8068,True,1.0,1.0,24,25.7542,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+26,What is one of the reasons mentioned for the United States to be concerned about the security of its energy supply according to the passage?,25,857,23.991,False,0.0,0.0,857,23.9763,False,0.0,0.0,857,False,0.0,0.0,0,0,0,0
+27,What criteria does NERC's standard BAL-003-1 establish?,3,3,19.4749,True,1.0,1.0,3,19.4531,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+28,What criteria should a heat exchanger satisfy for thermal energy storage in solar and low energy buildings?,26,26,23.6125,True,1.0,1.0,26,23.5801,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+29,What are the major greenhouse gases mentioned in the table?,27,298,14.1065,False,0.0,0.0,809,14.1294,False,0.0,0.0,298,False,0.0,0.0,0,0,0,0
+30,What are the different ways AC Support behaves depending on the equipment installed with the Conext SW?,28,28,23.2647,True,1.0,1.0,28,23.1953,True,1.0,1.0,28,True,1.0,1.0,0,0,0,0
+31,What percentage of workers had a commute time of 15-29 minutes in 1990?,29,29,27.6298,True,1.0,1.0,29,27.5342,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+32,What are some examples of microgrid controller research and development?,30,30,17.6261,True,1.0,1.0,30,17.5635,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+33,Which country is Leszek Twardy's organization located in?,31,31,14.0584,True,1.0,1.0,31,13.7888,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+34,What are some characteristics of investors suitable for the Aggressive Growth asset mix?,32,32,18.685,True,1.0,1.0,32,18.2363,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+35,What was the average annual percent change in ton-miles for all modes of transportation between 1997 and 2007?,1,1,30.4242,True,1.0,1.0,1,30.2759,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+36,What factors contribute to the projected annual change in U.S. natural gas plant liquids production?,33,33,21.8249,True,1.0,1.0,33,21.7444,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+37,What is the cooling system used in the roof of the building?,34,34,17.0927,True,1.0,1.0,34,16.9736,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+38,What are the key features of the PV-BESS plant described in the text?,35,35,22.9878,True,1.0,1.0,35,22.9368,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+39,What is the significance of the μ = 0 region in the inversion curves?,36,36,18.1343,True,1.0,1.0,36,18.1208,True,1.0,1.0,36,True,1.0,1.0,0,0,0,0
+40,What was the average commute time for workers in 2011?,29,29,21.8046,True,1.0,1.0,29,21.7017,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+41,What is the address of Ramba Consulting Group?,37,296,17.4355,False,0.3869,0.3869,296,17.4727,False,0.3869,0.3869,296,False,0.3869,0.3869,0,0,0,0
+42,What is the estimated total savings for a PV system in Durham under the net metering (flat rate) billing option over the system's useful life of 25 years?,38,38,33.7239,True,1.0,1.0,38,33.5918,True,1.0,1.0,38,True,1.0,1.0,0,0,0,0
+43,"What is the fee range for Everglades Foundation, The?",39,39,14.5484,True,1.0,1.0,39,14.5229,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+44,"What is the estimated cost for the intersection reconstruction project at Main St in Spaulding, Sangamon County?",40,40,23.3878,True,1.0,1.0,40,23.3479,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+45,What measures have been taken to improve security at nuclear power plants since 9/11?,4,4,23.6474,True,1.0,1.0,4,23.4407,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+46,What type of nuclear reactor was involved in the Chernobyl accident?,41,41,19.526,True,1.0,1.0,41,19.4893,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+47,What is the formula given for the Green's function describing the evolution of an instantaneous point injection of tracer?,42,42,25.1156,True,1.0,1.0,42,24.9517,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+48,In which county are the Greenmount Road projects located?,0,0,16.5019,True,1.0,1.0,0,16.4282,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+49,What types of communication expenses are listed on Schedule E?,14,14,16.2351,True,1.0,1.0,14,16.0798,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+50,What is the average OPEC spare production capacity for the years 2014-2023?,43,43,24.9622,True,1.0,1.0,43,24.8516,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+51,What is the estimated cost for the bridge joint replacement and culvert repair project on Route 55 BUS at Ditch 1.2 Mi S & Fancy Creek in Sherman?,44,44,29.5719,True,1.0,1.0,44,29.5127,True,1.0,1.0,44,True,1.0,1.0,0,0,0,0
+52,What is the recommended approach for implementing shared streets with cars?,45,45,17.592,True,1.0,1.0,45,17.5913,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+53,What initiatives are being undertaken to address urban freight movement challenges in Orlando?,46,46,20.011,True,1.0,1.0,46,20.0044,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+54,How does the United Kingdom's electricity grid differ from the United States according to the passage?,47,47,19.1851,True,1.0,1.0,47,18.9395,True,1.0,1.0,47,True,1.0,1.0,0,0,0,0
+55,Why does the ground appear warmer than the panels in the thermal image?,48,48,20.3633,True,1.0,1.0,48,20.1763,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+56,What is the altitude operating limit for these models?,49,49,12.6411,True,1.0,1.0,49,12.708,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+57,What is the address of Florida State University Foundation?,50,50,17.35,True,1.0,1.0,50,17.3125,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+58,What is mentioned about the need for a carbon pricing framework?,18,418,14.4899,False,0.5,0.5,418,14.7498,False,0.5,0.5,418,False,0.5,0.5,0,0,0,0
+59,What steps can be taken if a biomass project appears viable after evaluation?,51,51,17.799,True,1.0,1.0,51,17.7588,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+60,What happens to the voltage of a battery undergoing constant current discharge over time?,52,52,20.1785,True,1.0,1.0,52,20.0693,True,1.0,1.0,52,True,1.0,1.0,0,0,0,0
+61,What parking strategies are suggested for new residential development?,53,53,16.0452,True,1.0,1.0,53,15.9668,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+62,What is the projected peak electricity demand in California for the year 2030?,54,54,20.5156,True,1.0,1.0,54,20.52,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+63,Why is the $5/Dth noncompliance charge for operational flow orders not considered productive or beneficial?,9,9,20.1683,True,1.0,1.0,9,19.9373,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+64,What types of accounts or products allow investors to defer paying taxes?,55,55,15.4559,True,1.0,1.0,55,15.355,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+65,What are some companies and their locations listed on the page?,56,135,16.4011,False,0.0,0.0,135,16.3462,False,0.0,0.0,135,False,0.0,0.0,0,0,0,0
+66,What is the projected regional energy mix for electricity demand scenarios in 2010?,57,57,23.1966,True,1.0,1.0,57,23.1606,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+67,What were some of the unique design features of the Chernobyl reactor that contributed to the accident?,41,41,21.8717,True,1.0,1.0,41,21.8311,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+68,What method was used to estimate the accuracy of the baseline method?,58,58,18.5873,True,1.0,1.0,58,18.4463,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+69,What is the mission of the Bioenergy Technologies Office (BETO)?,59,59,20.6691,True,1.0,1.0,59,20.5898,True,1.0,1.0,59,True,1.0,1.0,0,0,0,0
+70,What are the specific topics mentioned related to the national energy policy options?,60,60,15.8196,True,1.0,1.0,60,15.8767,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+71,What is the purpose of decreasing the ash content in sludge from 26% to 15% for the future renovations?,61,61,25.0041,True,1.0,1.0,61,24.6431,True,1.0,1.0,61,True,1.0,1.0,0,0,0,0
+72,What are the strategies and recommendations for early notification and coordination in Texas?,62,62,19.0774,True,1.0,1.0,62,19.1616,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+73,What are the potential impacts of high geothermal fluid production rates compared to recharge rates?,63,63,18.6342,True,1.0,1.0,63,18.3037,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+74,What are some challenges faced in the integration of solar photovoltaic (PV) power plants into the electric power grid?,22,22,26.2744,True,1.0,1.0,22,26.1929,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+75,Which hour of the day had the highest overall electricity generation in 2019?,64,64,19.6158,True,1.0,1.0,64,19.606,True,1.0,1.0,64,True,1.0,1.0,0,0,0,0
+76,How is China's energy intensity expected to change between 2012 and 2040 for the chemical industry?,65,65,27.3007,True,1.0,1.0,65,27.2026,True,1.0,1.0,65,True,1.0,1.0,0,0,0,0
+77,What is the forecasted annual change for U.S. hydrocarbon gas liquids product supplied (consumption) in 2025?,66,66,24.3364,True,1.0,1.0,66,24.3843,True,1.0,1.0,66,True,1.0,1.0,0,0,0,0
+78,What fuel type had the highest average hourly generation in 2019 according to the chart?,64,64,24.6924,True,1.0,1.0,64,24.6631,True,1.0,1.0,64,True,1.0,1.0,0,0,0,0
+79,What is the governing equation for the motion of tracers?,42,42,19.574,True,1.0,1.0,42,19.4883,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+80,How can the 'Dead Battery Detected' error be resolved?,20,20,18.755,True,1.0,1.0,20,18.6362,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+81,What was the cause of the Chernobyl nuclear accident?,41,41,18.0491,True,1.0,1.0,41,18.0103,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+82,What is the trend in natural gas usage for electricity generation according to the scenarios?,57,75,18.601,False,0.6309,0.6309,75,18.7126,False,0.6309,0.6309,75,False,0.6309,0.6309,0,0,0,0
+83,What are some challenges mentioned regarding the large-scale implementation of electric vehicles?,67,67,18.461,True,1.0,1.0,67,18.4395,True,1.0,1.0,67,True,1.0,1.0,0,0,0,0
+84,What is the purpose of the integrated risk management framework mentioned in the passage?,68,68,20.2571,True,1.0,1.0,68,20.2485,True,1.0,1.0,68,True,1.0,1.0,0,0,0,0
+85,Which region has the highest load growth rate from 2020 to 2026?,69,69,22.275,True,1.0,1.0,69,22.2134,True,1.0,1.0,69,True,1.0,1.0,0,0,0,0
+86,"What is the lobbyist income reported for Amelia B McKie during the period from January 1 to May 31, 2018?",70,70,31.7057,True,1.0,1.0,70,31.7168,True,1.0,1.0,70,True,1.0,1.0,0,0,0,0
+87,What are some key goals and requirements related to renewable energy integration in California?,22,278,17.5245,False,0.6309,0.6309,278,17.4846,False,0.6309,0.6309,278,False,0.6309,0.6309,0,0,0,0
+88,What are the different regional and subregional plans mentioned for the San Diego region?,71,71,22.626,True,1.0,1.0,71,22.6167,True,1.0,1.0,71,True,1.0,1.0,0,0,0,0
+89,How did the air travel emissions from the EIB Group change in 2022 compared to 2021?,24,24,27.6422,True,1.0,1.0,24,27.6309,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+90,How did the percentage of workers with a commute time of less than 15 minutes change from 1990 to 2011?,29,29,33.9391,True,1.0,1.0,29,33.9092,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+91,What is the average annual growth rate of regional load across the Western Interconnection from 2020 to 2026?,69,69,30.4635,True,1.0,1.0,69,30.3062,True,1.0,1.0,69,True,1.0,1.0,0,0,0,0
+92,What does the activity coefficient represent for a species in solution?,72,72,17.935,True,1.0,1.0,72,17.9443,True,1.0,1.0,72,True,1.0,1.0,0,0,0,0
+93,What is the projected annual growth rate of electricity demand in the country according to the latest Philippine Energy Plan Update?,73,73,27.1835,True,1.0,1.0,73,26.9282,True,1.0,1.0,73,True,1.0,1.0,0,0,0,0
+94,What industry does Servico cater to?,74,74,12.6366,True,1.0,1.0,74,12.9766,True,1.0,1.0,74,True,1.0,1.0,0,0,0,0
+95,What is the spark spread used for in power generation?,75,75,17.1962,True,1.0,1.0,75,17.2173,True,1.0,1.0,75,True,1.0,1.0,0,0,0,0
+96,What are some recent advances in HVDC system controllers?,30,30,17.7721,True,1.0,1.0,30,17.5884,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+97,What is the name of the institute where Andrei Vladescu works?,31,31,16.3197,True,1.0,1.0,31,16.1587,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+98,How is the drilling cost index calculated?,76,76,15.0996,True,1.0,1.0,76,15.0725,True,1.0,1.0,76,True,1.0,1.0,0,0,0,0
+99,What does the Authority do after the design work progresses in keeping with the Staged Project Delivery process?,13,13,24.6424,True,1.0,1.0,13,24.365,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0

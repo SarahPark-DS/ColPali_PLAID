@@ -1,0 +1,101 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,Quelle partie de la production pétrolière du Kazakhstan provient de champs en mer ?,0,0,21.1836,True,1.0,1.0,0,21.1924,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+1,Quelle est la tendance générale de la taille moyenne des champs découverts au Kazakhstan au fil du temps ?,1,1,20.9959,True,1.0,1.0,1,20.9646,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,Où se situent les découvertes de pétrole en Angola ?,2,2,18.5428,True,1.0,1.0,2,18.564,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+3,Quelle est la production cumulée de pétrole brut en Algérie depuis la découverte en 1950 jusqu'à présent?,3,3,28.4827,True,1.0,1.0,3,28.479,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+4,Quelle est la tendance générale des champs découverts aux États-Unis depuis 1900 ?,4,13,21.8893,False,0.5,0.5,13,21.8848,False,0.5,0.5,13,False,0.5,0.5,0,0,0,0
+5,Quelle est la tendance générale des découvertes cumulées de pétrole brut en Russie ?,5,5,21.1949,True,1.0,1.0,5,21.219,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+6,Quelles sont les incertitudes politiques pesant sur le secteur du LTO aux États-Unis ?,6,945,20.9387,False,0.6309,0.6309,945,20.874,False,0.6309,0.6309,945,False,0.6309,0.6309,0,0,0,0
+7,Quelle a été la tendance de la production de pétrole brut en Russie depuis le pic de 1986 ?,7,604,26.2452,False,0.0,0.3562,604,26.2119,False,0.0,0.3562,604,False,0.0,0.3562,0,0,0,0
+8,Quelle est l'évolution de la durée moyenne entre la découverte et la mise en production d'un champ pétrolier en Algérie ?,8,8,28.7789,True,1.0,1.0,8,28.7324,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+9,Quelle était la production maximale de pétrole brut algérien enregistrée par le passé ?,9,477,19.4721,False,0.0,0.0,477,19.425,False,0.0,0.0,477,False,0.0,0.0,0,0,0,0
+10,Quelle a été la durée moyenne entre la découverte et la mise en production d'un champ pétrolier en Arabie Saoudite après l'année 2000 ?,10,829,35.1366,False,0.6309,0.6309,10,35.0454,True,1.0,1.0,829,False,0.6309,0.6309,0,0,0,0
+11,Quelle est l'année où les découvertes de pétrole brut au large des côtes du Nigeria ont atteint leur pic ?,11,687,25.9304,False,0.4307,0.4307,687,25.876,False,0.4307,0.4307,687,False,0.4307,0.4307,0,0,0,0
+12,Quelle est l'évolution de la production d'hydrocarbures liquides au Mexique entre 2003 et 2019 ?,12,12,32.2035,True,1.0,1.0,12,32.2666,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+13,Comment a évolué la production de pétrole brut conventionnel aux États-Unis depuis 1970 ?,13,927,26.3332,False,0.0,0.3333,927,26.2783,False,0.0,0.3333,927,False,0.0,0.3333,0,0,0,0
+14,Quels sont les volumes de production de pétrole brut prévus pour l'Égypte d'ici 2030 ?,14,14,26.4791,True,1.0,1.0,14,26.5598,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+15,Quelle est la position de la Russie en termes de réserves pétrolières ?,15,801,21.6106,False,0.6309,0.6309,801,21.5725,False,0.6309,0.6309,801,False,0.6309,0.6309,0,0,0,0
+16,Quels facteurs influenceront la production d'hydrocarbures liquides au Koweït après 2020 ?,16,16,22.4829,True,1.0,1.0,16,22.4509,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+17,À quelle date les réserves de pétrole brut en Angola ont-elles dépassé les découvertes cumulées ?,17,17,25.7586,True,1.0,1.0,17,25.6885,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+18,"Quels sont les pays ayant la plus grande part des découvertes cumulées de pétrole brut en 2020 (en milliers de barils, hors découvertes cumulées) ?",18,120,35.48,False,0.0,0.0,120,35.4048,False,0.0,0.0,120,False,0.0,0.0,0,0,0,0
+19,Quel événement a conduit au pic de production de pétrole brut au Mexique autour de 2003-2004 ?,19,12,26.3678,False,0.6309,0.6309,12,26.4341,False,0.6309,0.6309,12,False,0.6309,0.6309,0,0,0,0
+20,Quel est l'objectif principal du think tank The Shift Project ?,20,20,19.2167,True,1.0,1.0,20,19.2344,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+21,Quelles sont les principales institutions publiques impliquées dans l'administration de la santé ?,21,21,21.1919,True,1.0,1.0,21,21.0979,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+22,Quels sont les exemples d'actions favorables à l'intégration de la démarche d'achat responsable ?,22,22,22.3794,True,1.0,1.0,22,22.3259,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+23,quelle réduction annuelle des émissions de GES est requise d'ici 2025 pour respecter le budget carbone ?,23,283,23.3726,False,0.0,0.301,283,23.4358,False,0.0,0.0,283,False,0.0,0.301,0,0,0,0
+24,Que doivent faire les professionnels de santé face à l'urgence climatique ?,24,362,17.9779,False,0.0,0.3333,362,17.9546,False,0.0,0.3333,362,False,0.0,0.3333,0,0,0,0
+25,Quelle est la répartition des émissions de gaz à effet de serre par acteur du secteur de la santé ?,25,25,23.6285,True,1.0,1.0,25,23.5635,True,1.0,1.0,25,True,1.0,1.0,0,0,0,0
+26,Quels sont les principaux acteurs impliqués dans la chaîne d'approvisionnement du secteur de la santé ?,26,26,22.314,True,1.0,1.0,26,22.1724,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+27,Quelle est la part des émissions du secteur de la santé due aux médicaments ?,27,27,20.7441,True,1.0,1.0,27,20.7207,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+28,Qu'est-ce que le décret tertiaire impose en termes de réduction de la consommation énergétique du parc tertiaire français ?,28,28,28.34,True,1.0,1.0,28,28.3359,True,1.0,1.0,28,True,1.0,1.0,0,0,0,0
+29,Quelle entité contribue le plus aux émissions de gaz à effet de serre dans le système de santé français ?,29,29,23.9528,True,1.0,1.0,29,23.9619,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+30,Quels sont les freins à la réduction des émissions des médicaments ?,30,413,17.077,False,0.5,0.5,413,17.0908,False,0.5,0.5,413,False,0.5,0.5,0,0,0,0
+31,Quelle est la part d'émissions de gaz à effet de serre associée à la médecine de ville dans le secteur de la santé ?,31,721,28.657,False,0.3869,0.3869,721,28.5913,False,0.4307,0.4307,721,False,0.3869,0.3869,0,0,0,0
+32,Que couvre le plan de mobilité à mettre en place par les établissements de santé ?,32,32,17.552,True,1.0,1.0,32,17.5835,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+33,Qu'est-ce que la France doit faire pour s'engager dans un système de santé plus sobre ?,33,33,25.0277,True,1.0,1.0,33,25.0396,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+34,Quel est le pourcentage approximatif des émissions de gaz à effet de serre du secteur de la santé par rapport aux émissions nationales françaises ?,34,34,27.3714,True,1.0,1.0,34,27.3423,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+35,Quel est le rôle du Health Data Hub français dans l'exploitation des données de santé ?,35,35,19.3536,True,1.0,1.0,35,19.3042,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+36,Quelle est l'évolution du nombre de morts prématurées liées aux canicules ?,36,36,21.0056,True,1.0,1.0,36,20.7466,True,1.0,1.0,36,True,1.0,1.0,0,0,0,0
+37,Quels sont les bénéfices pour la santé de repenser l'urbanisme et de développer les îlots de fraîcheur urbains ?,37,37,23.4836,True,1.0,1.0,37,23.5652,True,1.0,1.0,37,True,1.0,1.0,0,0,0,0
+38,Quelle est la part des émissions de gaz à effet de serre du numérique liée aux terminaux utilisateurs ?,38,557,21.6763,False,0.5,0.5,557,21.6641,False,0.5,0.5,557,False,0.5,0.5,0,0,0,0
+39,Quels sont les principaux pays émetteurs de gaz à effet de serre dans le secteur de la santé ?,39,39,23.3697,True,1.0,1.0,39,23.2856,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+40,Quelles sont les principales innovations technologiques prévues pour l'aviation d'ici 2035?,40,40,22.7317,True,1.0,1.0,40,22.7266,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+41,Quelle est la réduction des émissions de CO2 pour la compagnie Hop! après le remplacement de ses avions ?,41,41,23.3182,True,1.0,1.0,41,23.2964,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+42,Quels sont les axes principaux du plan de relance pour l'aéronautique présenté par le gouvernement français en juin 2020 ?,42,42,28.633,True,1.0,1.0,42,28.6968,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+43,Quels sont les projets visant à harmoniser la gestion du trafic aérien entre les pays ?,43,43,18.841,True,1.0,1.0,43,18.8501,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+44,Quelles sont les possibilités de mise en œuvre pour réduire les émissions de l'aviation d'affaires ?,44,940,22.6464,False,0.3869,0.3869,940,22.6104,False,0.0,0.3562,940,False,0.3869,0.3869,0,0,0,0
+45,Quels sont les effets escomptés de la restriction de l'usage de loisirs dans l'aviation ?,45,45,21.343,True,1.0,1.0,45,21.4761,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+46,Qu'est-ce que la Direction Générale de l'Aviation Civile (DGAC) ?,46,46,22.8327,True,1.0,1.0,46,22.5703,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+47,Quelle est la proportion de Français ayant pris l'avion au moins une fois dans leur vie ?,47,929,17.8135,False,0.0,0.0,929,17.6975,False,0.0,0.0,929,False,0.0,0.0,0,0,0,0
+48,Quels sont les différents types de risques mentionnés dans le rapport qui caractérisent la transition énergétique de l'industrie aéronautique ?,48,48,23.8558,True,1.0,1.0,48,23.843,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+49,Comment fonctionne le processus de compensation dans CORSIA ?,49,49,16.2796,True,1.0,1.0,49,16.2695,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+50,"Selon le graphique, quelle est la capacité d'import et la consommation réelle de carburants SAF (biocarburants durables pour l'aviation) prévues en 2050 ?",50,56,30.3228,False,0.5,0.5,56,30.344,False,0.5,0.5,56,False,0.5,0.5,0,0,0,0
+51,Quels sont les principaux enjeux liés à la fixation d'un prix plancher sur les billets ?,51,51,16.3925,True,1.0,1.0,51,16.2341,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+52,Quels sont les acteurs concernés par l'optimisation des opérations en vol dans l'aviation ?,52,43,21.8898,False,0.5,0.5,43,21.8792,False,0.5,0.5,43,False,0.5,0.5,0,0,0,0
+53,Quels sont les objectifs de réduction des émissions de CO2 liés à l'utilisation du système de traction électrique des avions ?,53,53,24.528,True,1.0,1.0,53,24.4753,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+54,"Quelles sont les mesures proposées par le rapport Crise(s), climat pour décarboner l'aviation ?",54,54,21.3617,True,1.0,1.0,54,21.3369,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+55,Quelles sont les mesures proposées pour la restriction progressive du nombre de passagers sur les lignes aériennes ?,55,55,20.4623,True,1.0,1.0,55,20.5049,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+56,Quelle est la consommation de carburant prévue en 2050 pour les différents types d'avions selon le scénario ICEMAN ?,56,50,23.8974,False,0.4307,0.4307,50,23.9185,False,0.4307,0.4307,50,False,0.4307,0.4307,0,0,0,0
+57,Quels sont les avantages et inconvénients de l'hydrogène comme carburant d'avion ?,57,57,20.7294,True,1.0,1.0,57,20.7183,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+58,Quelles sont les mesures prévues pour réduire les émissions de gaz à effet de serre dans l'aviation?,58,155,23.9484,False,0.5,0.5,155,24.0044,False,0.5,0.5,155,False,0.5,0.5,0,0,0,0
+59,Quelle est la contribution de l'aviation civile aux émissions mondiales de CO2 en 2018 ?,59,41,22.8224,False,0.0,0.3333,41,22.8376,False,0.0,0.3155,41,False,0.0,0.3333,0,0,0,0
+60,Qu'est-ce que les fonds d'investissements thématiques orientés vers la transition ?,60,60,24.2425,True,1.0,1.0,60,24.2407,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+61,Quelles sont les principales situations ou enjeux énergétiques et économiques de la France ?,61,92,18.9903,False,0.6309,0.6309,92,18.8577,False,0.6309,0.6309,92,False,0.6309,0.6309,0,0,0,0
+62,Quels sont les impacts économiques estimés à l'horizon de 10 ans en termes de facture énergétique et de balance commerciale?,62,483,23.9473,False,0.5,0.5,483,23.9248,False,0.5,0.5,483,False,0.5,0.5,0,0,0,0
+63,Quelles sont les zones en France qui devraient connaître les plus fortes hausses de température en été selon le scénario A2 ?,63,63,24.3201,True,1.0,1.0,63,24.2515,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+64,Quels sont les principaux impacts positifs attendus de l'augmentation du parc de véhicules électriques en France ?,64,982,22.2076,False,0.0,0.0,982,22.2205,False,0.0,0.0,982,False,0.0,0.0,0,0,0,0
+65,Quelles techniques culturales permettent de réduire la consommation d'énergie des exploitations agricoles ?,65,65,21.3807,True,1.0,1.0,65,21.2847,True,1.0,1.0,65,True,1.0,1.0,0,0,0,0
+66,Quels sont les principaux défis et difficultés rencontrés par le secteur automobile français dans la transition vers des véhicules plus écologiques ?,66,66,24.9753,True,1.0,1.0,66,24.9072,True,1.0,1.0,66,True,1.0,1.0,0,0,0,0
+67,Quel est le coût de production du kWh pour l'éolien en mer par rapport à d'autres sources d'énergie renouvelables ?,67,792,22.0853,False,0.6309,0.6309,792,22.1675,False,0.5,0.5,792,False,0.6309,0.6309,0,0,0,0
+68,Quels sont les principaux objets pour lesquels les microcrédits professionnels sont octroyés ?,68,763,21.9159,False,0.6309,0.6309,763,21.9397,False,0.6309,0.6309,763,False,0.6309,0.6309,0,0,0,0
+69,Quels étaient les principaux placements utilisés par les ménages français les plus aisés pour leur épargne en 2011 ?,69,492,22.682,False,0.6309,0.6309,492,22.6099,False,0.6309,0.6309,492,False,0.6309,0.6309,0,0,0,0
+70,Comment est-il proposé de réduire les flux dans le domaine du fret ?,70,70,18.9085,True,1.0,1.0,70,18.9407,True,1.0,1.0,70,True,1.0,1.0,0,0,0,0
+71,Quel est le coût estimé de la conception et de la réalisation de la campagne d'annonces presse pour promouvoir les habitations en bois ?,71,71,25.6493,True,1.0,1.0,71,25.5491,True,1.0,1.0,71,True,1.0,1.0,0,0,0,0
+72,Quels sont les secteurs économiques les plus fragiles et sensibles aux dépenses de consommation non contraintes ?,72,72,18.7048,True,1.0,1.0,72,18.6787,True,1.0,1.0,72,True,1.0,1.0,0,0,0,0
+73,Quels sont les facteurs favorables pour investir dans la transition carbone pour les particuliers/ménages ?,73,73,18.7692,True,1.0,1.0,73,18.8413,True,1.0,1.0,73,True,1.0,1.0,0,0,0,0
+74,Quels sont les avantages de développer l'industrie forestière et les usages du bois en France ?,74,74,23.835,True,1.0,1.0,74,23.8574,True,1.0,1.0,74,True,1.0,1.0,0,0,0,0
+75,Quels est le pourcentage de personnes qui changent leurs habitudes pour être plus écologiques ? ,75,75,21.4289,True,1.0,1.0,75,21.3721,True,1.0,1.0,75,True,1.0,1.0,0,0,0,0
+76,Quels sont les différents modèles agricoles alternatifs  ?,76,76,14.3231,True,1.0,1.0,76,14.3147,True,1.0,1.0,76,True,1.0,1.0,0,0,0,0
+77,Quels sont les risques associés à la hausse des dépenses contraintes des ménages ?,77,718,14.6924,False,0.6309,0.6309,718,14.6819,False,0.6309,0.6309,718,False,0.6309,0.6309,0,0,0,0
+78,Quelle part de la facture énergétique française est due aux produits pétroliers ?,78,78,19.6503,True,1.0,1.0,78,19.6785,True,1.0,1.0,78,True,1.0,1.0,0,0,0,0
+79,Quelles sont les deux méthodes principales permettant d'augmenter l'enveloppe globale des fonds publics destinés au financement de la transition ?,79,79,25.1647,True,1.0,1.0,79,25.1467,True,1.0,1.0,79,True,1.0,1.0,0,0,0,0
+80,Quelles sont les principales caractéristiques de l'emploi dans la filière ciment en 2018 ?,80,573,21.7174,False,0.6309,0.6309,573,21.6133,False,0.6309,0.6309,573,False,0.6309,0.6309,0,0,0,0
+81,Quels sont les modes de transport concernés par la transformation du fret après transformation ?,81,81,20.2055,True,1.0,1.0,81,20.145,True,1.0,1.0,81,True,1.0,1.0,0,0,0,0
+82,Quels sont les principaux postes d'émission de gaz à effet de serre liés au secteur de la santé ?,82,34,24.1722,False,0.0,0.301,34,24.0957,False,0.0,0.301,34,False,0.0,0.301,0,0,0,0
+83,Quelle part des émissions de gaz à effet de serre agricoles est liée à l'élevage de ruminants ?,83,330,24.4331,False,0.5,0.5,330,24.4478,False,0.5,0.5,330,False,0.5,0.5,0,0,0,0
+84,Quelles sont les principales difficultés rencontrées dans la réalisation du bilan du secteur de l'ESRI ?,84,84,20.6208,True,1.0,1.0,84,20.4436,True,1.0,1.0,84,True,1.0,1.0,0,0,0,0
+85,Combien d'employés compte la Gendarmerie nationale française ?,85,85,16.9714,True,1.0,1.0,85,16.9331,True,1.0,1.0,85,True,1.0,1.0,0,0,0,0
+86,Quelle est la principale conséquence de la transformation du secteur agricole en termes d'emploi?,86,310,20.6498,False,0.0,0.3562,310,20.5596,False,0.0,0.3333,310,False,0.0,0.3562,0,0,0,0
+87,Quelle sera la composition du parc automobile en 2050 selon les prévisions ?,87,788,18.4081,False,0.5,0.5,788,18.4771,False,0.5,0.5,788,False,0.5,0.5,0,0,0,0
+88,Quelles sont les principales sources de flux physiques pour le secteur de la santé ?,88,26,18.4421,False,0.4307,0.4307,26,18.4385,False,0.4307,0.4307,26,False,0.4307,0.4307,0,0,0,0
+89,Quelle est l'empreinte carbone actuelle totale (en MteqCO2 / an) des produits alimentaires en france ? ,89,741,26.3215,False,0.0,0.0,741,26.2651,False,0.0,0.0,741,False,0.0,0.0,0,0,0,0
+90,Pour quel objectif la méthode Ademe a-t-elle été adoptée ?,90,90,18.6822,True,1.0,1.0,90,18.6733,True,1.0,1.0,90,True,1.0,1.0,0,0,0,0
+91,Quelle est la stratégie prévue par le PTEF pour augmenter la ressource de bois hors forêt ?,91,91,22.1087,True,1.0,1.0,91,22.0608,True,1.0,1.0,91,True,1.0,1.0,0,0,0,0
+92,Quelles sont les deux questions soulevées par la dépendance aux énergies fossiles en France ?,92,92,23.8339,True,1.0,1.0,92,23.7544,True,1.0,1.0,92,True,1.0,1.0,0,0,0,0
+93,Quelle est la consommation de charbon projetée pour le secteur de l'industrie après la transformation selon le tableau ?,93,93,21.9006,True,1.0,1.0,93,21.8318,True,1.0,1.0,93,True,1.0,1.0,0,0,0,0
+94,Quels sont les différents types de chauffage mentionnés pour le logement collectif ?,94,94,17.1997,True,1.0,1.0,94,17.1484,True,1.0,1.0,94,True,1.0,1.0,0,0,0,0
+95,Comment allonger la durée de vie des ordinateurs professionnels selon The Shift Project ?,95,95,17.4422,True,1.0,1.0,95,17.3762,True,1.0,1.0,95,True,1.0,1.0,0,0,0,0
+96,Quelles sont les pistes envisagées pour décarboner les moyens de transport routiers existants ?,96,96,21.3067,True,1.0,1.0,96,21.3147,True,1.0,1.0,96,True,1.0,1.0,0,0,0,0
+97,Quels matériaux verront leur consommation augmenter significativement d'ici 2050 dans le secteur du logement? ,97,932,22.0234,False,0.0,0.301,932,22.2126,False,0.0,0.301,932,False,0.0,0.301,0,0,0,0
+98,Quels sont les principaux pays fournisseurs d'uranium naturel pour alimenter le parc nucléaire français ?,98,92,18.7796,False,0.5,0.5,92,18.7949,False,0.6309,0.6309,92,False,0.5,0.5,0,0,0,0
+99,Quels sont les principaux défis auxquels est confrontée l'agriculture moderne en France ?,99,99,19.9423,True,1.0,1.0,99,19.9053,True,1.0,1.0,99,True,1.0,1.0,0,0,0,0

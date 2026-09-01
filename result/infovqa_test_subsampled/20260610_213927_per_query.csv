@@ -1,0 +1,501 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,Which category of apps enjoy the least percentage of popularity?,0,394,15.951,False,0.5,0.5,394,15.9277,False,0.5,0.5,394,False,0.5,0.5,0,0,0,0
+1,Who is the CEO of JP Morgan?,1,1,11.1862,True,1.0,1.0,1,11.2134,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,What percent of recruiters make most of their hires through LinkedIn?,2,3,15.3451,False,0.5,0.5,3,15.4263,False,0.5,0.5,3,False,0.5,0.5,0,0,0,0
+3,"In 2010 , what percentage of recruitments used linkedin?",3,104,18.8153,False,0.6309,0.6309,3,18.917,True,1.0,1.0,104,False,0.6309,0.6309,0,0,0,0
+4,Which social media platform has the least number of active users?,4,124,19.3223,False,0.6309,0.6309,124,19.2822,False,0.6309,0.6309,124,False,0.6309,0.6309,0,0,0,0
+5,Who founded Facebook?,5,107,11.2035,False,0.6309,0.6309,107,11.228,False,0.6309,0.6309,107,False,0.6309,0.6309,0,0,0,0
+6,What percentage of parents want to receive text messages from there child teacher?,6,6,18.2885,True,1.0,1.0,6,17.894,True,1.0,1.0,6,True,1.0,1.0,0,0,0,0
+7,which social media platform is the most common among health organizations?,7,7,16.1237,True,1.0,1.0,7,16.0171,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+8,Which is the second most popular social media job title according to the pie chart?,8,8,20.9637,True,1.0,1.0,8,20.9326,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+9,How many social media holidays are there in the month of January?,9,9,19.2461,True,1.0,1.0,9,19.2759,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+10,Which Nonprofit issue is most talked about in Twitter?,10,10,12.3468,True,1.0,1.0,10,12.4133,True,1.0,1.0,10,True,1.0,1.0,0,0,0,0
+11,"Which social media referred more business than LinkedIn, YouTube, and Google +?",11,4,18.6881,False,0.5,0.5,4,18.8074,False,0.5,0.5,4,False,0.5,0.5,0,0,0,0
+12,What percentage of companies do not use two or more networks to connect with prospective employees?,12,12,16.2687,True,1.0,1.0,12,16.4187,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+13,how many infrastructure in this diagram are new?,13,327,11.1901,False,0.6309,0.6309,13,11.0217,True,1.0,1.0,327,False,0.6309,0.6309,0,0,0,0
+14,What is the microblog market share of Sina Weibo?,14,14,17.2554,True,1.0,1.0,14,17.25,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+15,what is the chance of most people being convinced to buy a product/service after watching the video - likely to buy or unlikely to buy?,15,123,22.7529,False,0.6309,0.6309,123,22.9087,False,0.6309,0.6309,123,False,0.6309,0.6309,0,0,0,0
+16,"Which company collects only phone number, email address and location (time zone)?",16,16,18.2581,True,1.0,1.0,16,18.2461,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+17,Through how many ways GERD can diagnose other than Endoscopy?,17,17,14.2985,True,1.0,1.0,17,14.156,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+18,Which money management app is common to both iPhone and Android?,18,18,15.8663,True,1.0,1.0,18,15.863,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+19,How many daily average trips were completed by Uber as on Dec. 2015?,19,19,23.3436,True,1.0,1.0,19,23.3384,True,1.0,1.0,19,True,1.0,1.0,0,0,0,0
+20,Which is the biggest word in the infographic?,20,443,17.4331,False,0.3869,0.3869,443,17.3982,False,0.3869,0.3869,443,False,0.3869,0.3869,0,0,0,0
+21,What is the news agency of Turkey?,21,21,12.9643,True,1.0,1.0,21,12.9424,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+22,how many ships do MSC cruises have?,22,22,14.8326,True,1.0,1.0,22,14.8208,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+23,What percent of large business organizations were implementing or maintaining cloud computing as per the CDW 2011 Cloud Computing Tracking Poll?,23,23,20.5546,True,1.0,1.0,23,20.3944,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+24,What was the number of deaths on April 17?,24,24,15.5219,True,1.0,1.0,24,15.417,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+25,What percent of Irish citizens are concerned about water pollution?,25,25,15.9339,True,1.0,1.0,25,16.0254,True,1.0,1.0,25,True,1.0,1.0,0,0,0,0
+26,What is the value of High-Density Lipoproteins listed in the infographic?,26,221,14.2508,False,0.0,0.0,221,14.0701,False,0.0,0.0,221,False,0.0,0.0,0,0,0,0
+27,which state has the highest population - Northern Ireland or Wales?,27,27,18.3835,True,1.0,1.0,27,18.3379,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+28,"What percent of homes have equity below $200,000?",28,28,21.7132,True,1.0,1.0,28,21.5005,True,1.0,1.0,28,True,1.0,1.0,0,0,0,0
+29,How much oil is spilled into the ocean every year?,29,29,16.8362,True,1.0,1.0,29,16.6279,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+30,Which country has the highest carbon footprint in Asia?,30,30,16.7091,True,1.0,1.0,30,16.6987,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+31,What percent of cricket fans in UAE do not watch cricket on mobile?,31,31,20.1856,True,1.0,1.0,31,20.2358,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+32,What is the most preferred type of food of Francois du Plessis?,32,32,17.8038,True,1.0,1.0,32,17.7927,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+33,What percent of internet users use  LinkedIn?,33,113,14.3481,False,0.0,0.0,113,14.4331,False,0.0,0.0,113,False,0.0,0.0,0,0,0,0
+34,Tamim Iqbal represents which country,34,34,11.3933,True,1.0,1.0,34,11.3396,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+35,Which is the second major sector of AI in healthcare?,35,35,17.7341,True,1.0,1.0,35,17.6553,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+36,With whom has OPI partnered with,36,36,12.6279,True,1.0,1.0,36,12.2871,True,1.0,1.0,36,True,1.0,1.0,0,0,0,0
+37,In which locations in Srilanka will the matches be held,37,39,16.3655,False,0.6309,0.6309,39,16.3347,False,0.6309,0.6309,39,False,0.6309,0.6309,0,0,0,0
+38,How many years after his first run did DHoni complete 1000 runs,38,38,20.3469,True,1.0,1.0,38,20.3376,True,1.0,1.0,38,True,1.0,1.0,0,0,0,0
+39,What is the full form of BCCI,39,45,11.0497,False,0.0,0.301,45,11.1943,False,0.0,0.3155,45,False,0.0,0.301,0,0,0,0
+40,What does the regional cold stores use HCMIS for?,40,40,15.6106,True,1.0,1.0,40,15.5918,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+41,How many teams are there in the Masters Champions League?,41,249,15.0089,False,0.0,0.3155,249,14.7393,False,0.0,0.3333,249,False,0.0,0.3155,0,0,0,0
+42,Which sport is followed by the majority of the UAE nationals as per the survey?,42,42,21.9837,True,1.0,1.0,42,22.0371,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+43,How many centuries were made in 2015?,43,72,12.5269,False,0.0,0.0,289,12.5864,False,0.0,0.0,72,False,0.0,0.0,0,0,0,0
+44,What is the halfway-age of CMAs in Canada in 2015?,44,44,20.7431,True,1.0,1.0,44,20.7434,True,1.0,1.0,44,True,1.0,1.0,0,0,0,0
+45,Who won the 2015 ICC Cricket World Cup?,45,45,21.0739,True,1.0,1.0,45,21.0195,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+46,How many baby boomers are retiring?,46,46,12.6862,True,1.0,1.0,46,12.7153,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+47,who is second in the list of players who score fastest fifty in T20?,47,47,22.4537,True,1.0,1.0,47,22.4436,True,1.0,1.0,47,True,1.0,1.0,0,0,0,0
+48,Which country does Irfan Pathan represent?,48,48,13.83,True,1.0,1.0,48,13.7686,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+49,what is the second most considerable reason to buy hardcopy of book?,49,49,16.9587,True,1.0,1.0,49,16.9827,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+50,What  percent of students are receiving learning support in 2016?,50,50,19.2635,True,1.0,1.0,50,19.0205,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+51,The books Luke and Romans are similar to which popular book of the Bible?,51,51,21.0953,True,1.0,1.0,51,20.9155,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+52,What is the population of Karachi in 2025?,52,52,12.6494,True,1.0,1.0,52,12.6633,True,1.0,1.0,52,True,1.0,1.0,0,0,0,0
+53,How many centuries did Tendulkar make between in 1989 and 1996?,53,53,23.7564,True,1.0,1.0,53,23.876,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+54,How many hours in total does it take to read Zech and Micah,54,54,15.9772,True,1.0,1.0,54,16.0215,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+55,"Who qualified for the World Cup first, India or Egypt?",55,55,16.3341,True,1.0,1.0,55,16.3232,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+56,Who is the author of Cat's Cradle,56,56,10.9774,True,1.0,1.0,56,10.636,True,1.0,1.0,56,True,1.0,1.0,0,0,0,0
+57,At which center does scientists from all across the world work together?,57,57,13.7608,True,1.0,1.0,57,13.7861,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+58,Which whole grains have a popularity of over 40%,58,58,18.1876,True,1.0,1.0,58,18.1748,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+59,"what is the colour that comes in between green and orange, yellow or red",59,142,15.9443,False,0.0,0.0,142,15.9297,False,0.0,0.0,142,False,0.0,0.0,0,0,0,0
+60,How many columns with blue shirts,60,34,9.4109,False,0.0,0.0,34,9.4204,False,0.0,0.0,34,False,0.0,0.0,0,0,0,0
+61,What book is preferred by maximum when reading with a child,61,61,16.1139,True,1.0,1.0,61,15.9624,True,1.0,1.0,61,True,1.0,1.0,0,0,0,0
+62,When was the term robot first used,62,62,14.0408,True,1.0,1.0,62,14.0303,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+63,What is the export turnover when EU removes tax lines in general tariff on Vietnamese goods?,63,63,21.1172,True,1.0,1.0,63,20.8818,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+64,which area is represented by a smiling face icon?,64,60,11.5975,False,0.0,0.0,60,11.6633,False,0.0,0.0,60,False,0.0,0.0,0,0,0,0
+65,What do majority of biola student think about houses of worship favouring candidates,65,65,20.3221,True,1.0,1.0,65,20.2065,True,1.0,1.0,65,True,1.0,1.0,0,0,0,0
+66,What is the expected population of the U.S. in 2050?,66,66,21.8754,True,1.0,1.0,66,21.8223,True,1.0,1.0,66,True,1.0,1.0,0,0,0,0
+67,Which are the two DC superhero franchises?,67,67,15.2046,True,1.0,1.0,67,15.1509,True,1.0,1.0,67,True,1.0,1.0,0,0,0,0
+68,What percent of exam school teachers in America hold a master's degree?,68,68,19.3192,True,1.0,1.0,68,19.4045,True,1.0,1.0,68,True,1.0,1.0,0,0,0,0
+69,When is the world population day observed every year?,69,69,17.562,True,1.0,1.0,69,17.5271,True,1.0,1.0,69,True,1.0,1.0,0,0,0,0
+70,What is the speed of Tenergy 80?,70,231,11.2068,False,0.5,0.5,231,10.9321,False,0.4307,0.4307,231,False,0.5,0.5,0,0,0,0
+71,"Which is the most populated country in the world as of Oct 31, 2011?",71,71,25.0034,True,1.0,1.0,71,24.7241,True,1.0,1.0,71,True,1.0,1.0,0,0,0,0
+72,What is the most hunted type of whales in the Northern Atlantic ocean?,72,72,19.6572,True,1.0,1.0,72,19.6235,True,1.0,1.0,72,True,1.0,1.0,0,0,0,0
+73,What was the Chinese population in the U.S. in 2000?,73,73,23.8993,True,1.0,1.0,73,23.8486,True,1.0,1.0,73,True,1.0,1.0,0,0,0,0
+74,What is the projected global fertility rate from 2045 until 2050?,74,74,19.909,True,1.0,1.0,74,20.2007,True,1.0,1.0,74,True,1.0,1.0,0,0,0,0
+75,What is Ireland's usually resident population?,75,75,15.8011,True,1.0,1.0,75,15.7607,True,1.0,1.0,75,True,1.0,1.0,0,0,0,0
+76,How much time is spent by the U.S population on shopping in a lifespan of 78 years?,76,76,21.8407,True,1.0,1.0,76,21.9045,True,1.0,1.0,76,True,1.0,1.0,0,0,0,0
+77,How many people follow Roger Federer on Facebook?,77,77,13.7207,True,1.0,1.0,77,13.3638,True,1.0,1.0,77,True,1.0,1.0,0,0,0,0
+78,how many myths about female body building are given in this infographic?,78,78,19.0533,True,1.0,1.0,78,18.9912,True,1.0,1.0,78,True,1.0,1.0,0,0,0,0
+79,who was the president when the misery index gone highest?,79,79,17.7988,True,1.0,1.0,79,17.7773,True,1.0,1.0,79,True,1.0,1.0,0,0,0,0
+80,Which team does Kobe Bryant play for?,80,80,15.2648,True,1.0,1.0,80,15.3184,True,1.0,1.0,80,True,1.0,1.0,0,0,0,0
+81,what is the combined total economy of UK and Germany in trillion dollars?,81,312,14.8155,False,0.4307,0.4307,312,15.0698,False,0.4307,0.4307,312,False,0.4307,0.4307,0,0,0,0
+82,Which is the most popular sports among the students according to the survey?,82,82,17.7479,True,1.0,1.0,82,17.7373,True,1.0,1.0,82,True,1.0,1.0,0,0,0,0
+83,Which university did Eric Heiden go to?,83,83,13.9512,True,1.0,1.0,83,13.7808,True,1.0,1.0,83,True,1.0,1.0,0,0,0,0
+84,what percent of people skipped meal because they couldn't afford or their children could eat?,84,84,22.4782,True,1.0,1.0,84,22.1616,True,1.0,1.0,84,True,1.0,1.0,0,0,0,0
+85,What is the hashtag given?,85,4,12.7191,False,0.5,0.5,284,12.6348,False,0.5,0.5,4,False,0.5,0.5,0,0,0,0
+86,What percent of national population is single fathers and single mothers?,86,235,15.1788,False,0.6309,0.6309,86,14.8623,True,1.0,1.0,235,False,0.6309,0.6309,0,0,0,0
+87,What is the Twitter handle of the designer of infographic?,87,87,16.1382,True,1.0,1.0,87,16.1323,True,1.0,1.0,87,True,1.0,1.0,0,0,0,0
+88,What percent of men are organised when it comes to money matters?,88,88,14.8171,True,1.0,1.0,88,14.7644,True,1.0,1.0,88,True,1.0,1.0,0,0,0,0
+89,What percent of women are college and university presidents?,89,89,13.8517,True,1.0,1.0,89,13.8594,True,1.0,1.0,89,True,1.0,1.0,0,0,0,0
+90,Which is the most popular social media platform?,90,110,16.6854,False,0.0,0.0,110,16.6719,False,0.0,0.0,110,False,0.0,0.0,0,0,0,0
+91,By what percent did number of female primary income earners increase from 1994 to 2014?,91,91,23.1825,True,1.0,1.0,91,23.2639,True,1.0,1.0,91,True,1.0,1.0,0,0,0,0
+92,Which year has the 2-year MBA applications been the least and 1-year MA applicants been the maximum,92,92,21.8407,True,1.0,1.0,92,21.824,True,1.0,1.0,92,True,1.0,1.0,0,0,0,0
+93,What can influence a child's desire to work in any particular profession?,93,93,18.932,True,1.0,1.0,93,18.5654,True,1.0,1.0,93,True,1.0,1.0,0,0,0,0
+94,What % of women were awarded undergraduate CS degreen in 1984,94,94,14.5995,True,1.0,1.0,94,14.4302,True,1.0,1.0,94,True,1.0,1.0,0,0,0,0
+95,What % of African adolescent girls miss school during menses,95,95,12.1717,True,1.0,1.0,95,12.1406,True,1.0,1.0,95,True,1.0,1.0,0,0,0,0
+96,How many stress management techniques mentioned in this infographic?,96,96,16.9752,True,1.0,1.0,96,16.9541,True,1.0,1.0,96,True,1.0,1.0,0,0,0,0
+97,What percentage of women had a scale of 6 or 7 for confidence in political climate?,97,97,16.7761,True,1.0,1.0,97,16.4446,True,1.0,1.0,97,True,1.0,1.0,0,0,0,0
+98,In which fields have men outnumbered women in the number of degrees earned?,98,98,17.2463,True,1.0,1.0,98,17.2664,True,1.0,1.0,98,True,1.0,1.0,0,0,0,0
+99,What percent of teen social media users post their email address on social media websites in 2006 according to the survey?,99,99,24.8369,True,1.0,1.0,99,24.7358,True,1.0,1.0,99,True,1.0,1.0,0,0,0,0
+100,"What is the population of women living in London in Millions, 63.2, 32.2, or 4.2?",100,100,23.9292,True,1.0,1.0,100,23.7705,True,1.0,1.0,100,True,1.0,1.0,0,0,0,0
+101,Who has won the most number of Grand Slam titles and how many?,101,101,21.7703,True,1.0,1.0,101,21.8154,True,1.0,1.0,101,True,1.0,1.0,0,0,0,0
+102,what percentage of online users watch cute/ funny animal clips?,102,102,17.0526,True,1.0,1.0,102,16.6509,True,1.0,1.0,102,True,1.0,1.0,0,0,0,0
+103,What percentage of UK adults do not use social media sites?,103,103,19.2394,True,1.0,1.0,103,19.1958,True,1.0,1.0,103,True,1.0,1.0,0,0,0,0
+104,What percentage of companies didn't use social media for recruiting?,104,3,19.6045,False,0.6309,0.6309,3,19.5825,False,0.6309,0.6309,3,False,0.6309,0.6309,0,0,0,0
+105,what is the second tip given for influencer marketing?,105,105,14.7328,True,1.0,1.0,105,14.7073,True,1.0,1.0,105,True,1.0,1.0,0,0,0,0
+106,What percentage of American high schools has not banned use or possession of mobile devices on school grounds?,106,106,21.3416,True,1.0,1.0,106,21.2952,True,1.0,1.0,106,True,1.0,1.0,0,0,0,0
+107,When was MySpace launched?,107,5,13.0918,False,0.6309,0.6309,5,13.1587,False,0.6309,0.6309,5,False,0.6309,0.6309,0,0,0,0
+108,What is the least time-consuming activity done by small businesses on social media as per the survey?,108,108,24.0953,True,1.0,1.0,108,24.0476,True,1.0,1.0,108,True,1.0,1.0,0,0,0,0
+109,Which chemical stimulates a sense of attachment?,109,109,10.9746,True,1.0,1.0,109,10.991,True,1.0,1.0,109,True,1.0,1.0,0,0,0,0
+110,What percent of Pinterest users are male?,110,112,16.0322,False,0.0,0.0,112,15.9922,False,0.0,0.0,112,False,0.0,0.0,0,0,0,0
+111,which restaurant has fourth highest number of Google+ followers?,111,111,15.9321,True,1.0,1.0,111,15.8911,True,1.0,1.0,111,True,1.0,1.0,0,0,0,0
+112,What percent of Google+ users are female?,112,112,15.1803,True,1.0,1.0,112,15.2031,True,1.0,1.0,112,True,1.0,1.0,0,0,0,0
+113,What percentage of all marketers have found a customer through Twitter?,113,113,18.0093,True,1.0,1.0,113,17.9751,True,1.0,1.0,113,True,1.0,1.0,0,0,0,0
+114,in which year was the world's first email sent?,114,5,13.3688,False,0.6309,0.6309,5,13.4238,False,0.6309,0.6309,5,False,0.6309,0.6309,0,0,0,0
+115,"""Parity Checking"" comes under which branch of Computer science?",115,115,10.323,True,1.0,1.0,115,10.5619,True,1.0,1.0,115,True,1.0,1.0,0,0,0,0
+116,Which companies made their foray into social media in 2003?,116,114,19.7219,False,0.3869,0.3869,114,19.7051,False,0.3869,0.3869,114,False,0.3869,0.3869,0,0,0,0
+117,"What percentage of business to customer companies are likely to use social media for marketing, 68%, 71%, or 66%?",117,1,25.8991,False,0.0,0.3155,1,25.7134,False,0.0,0.3562,1,False,0.0,0.3155,0,0,0,0
+118,What is Leolia JeanJean's universal tennis rating?,118,118,18.5284,True,1.0,1.0,118,18.4194,True,1.0,1.0,118,True,1.0,1.0,0,0,0,0
+119,"A person working in which data science role gets an average salary  of $65,000?",119,119,22.7525,True,1.0,1.0,119,22.656,True,1.0,1.0,119,True,1.0,1.0,0,0,0,0
+120,"Which social networking website is used  for personal use by most of the respondents according to the survey - Twitter, Skype, LinkedIn, Facebook?",120,267,25.4238,False,0.4307,0.4307,267,25.3523,False,0.4307,0.4307,267,False,0.4307,0.4307,0,0,0,0
+121,Which year was YouTube launched?,121,107,13.1175,False,0.6309,0.6309,107,13.0894,False,0.6309,0.6309,107,False,0.6309,0.6309,0,0,0,0
+122,"In the infographic, how many types of items are shown which are exported from China to US?",122,122,23.7113,True,1.0,1.0,122,23.6987,True,1.0,1.0,122,True,1.0,1.0,0,0,0,0
+123,Which is the most trusted channel for brand content?,123,123,12.5507,True,1.0,1.0,123,12.635,True,1.0,1.0,123,True,1.0,1.0,0,0,0,0
+124,What is the number of monthly active users of Instagram as of 12.27.2018?,124,124,24.4178,True,1.0,1.0,124,24.2566,True,1.0,1.0,124,True,1.0,1.0,0,0,0,0
+125,What percent of hospitals in the US are participating in social media?,125,125,16.7091,True,1.0,1.0,125,16.6572,True,1.0,1.0,125,True,1.0,1.0,0,0,0,0
+126,how many boys are there in the world for 100 girls?,126,126,17.0326,True,1.0,1.0,126,16.9834,True,1.0,1.0,126,True,1.0,1.0,0,0,0,0
+127,which is more expensive - bootcamp or CS degree?,127,127,16.1574,True,1.0,1.0,127,16.116,True,1.0,1.0,127,True,1.0,1.0,0,0,0,0
+128,The highest number of soldiers died in which war?,128,179,17.3706,False,0.5,0.5,179,17.3667,False,0.5,0.5,179,False,0.5,0.5,0,0,0,0
+129,In which year was the border between the east and west Germany closed?,129,129,19.8303,True,1.0,1.0,129,19.814,True,1.0,1.0,129,True,1.0,1.0,0,0,0,0
+130,what percent of researchers in Chile were men in the duration of 2011-15?,130,130,20.1715,True,1.0,1.0,130,20.4143,True,1.0,1.0,130,True,1.0,1.0,0,0,0,0
+131,What percent of people think that demand for data scientists will significantly as well as somewhat outpace the supply of talent?,131,131,27.2928,True,1.0,1.0,131,27.2744,True,1.0,1.0,131,True,1.0,1.0,0,0,0,0
+132,What is the average year employee tenure?,132,132,14.0263,True,1.0,1.0,132,13.5996,True,1.0,1.0,132,True,1.0,1.0,0,0,0,0
+133,Which is the fifth type of violence against women?,133,155,17.1881,False,0.0,0.3333,155,17.1765,False,0.0,0.3333,155,False,0.0,0.3333,0,0,0,0
+134,How many US states have GDP greater than two thousand billion dollars?,134,134,16.201,True,1.0,1.0,134,16.2786,True,1.0,1.0,134,True,1.0,1.0,0,0,0,0
+135,What is the email address provided?,135,397,14.9123,False,0.0,0.0,397,14.8613,False,0.0,0.0,397,False,0.0,0.0,0,0,0,0
+136,How many sources are listed?,136,437,13.2658,False,0.0,0.0,437,13.2515,False,0.0,0.0,437,False,0.0,0.0,0,0,0,0
+137,Which scale represents the highest windspeed?,137,137,13.1096,True,1.0,1.0,137,13.146,True,1.0,1.0,137,True,1.0,1.0,0,0,0,0
+138,What is the mid-career median pay of a Software architect?,138,138,13.6404,True,1.0,1.0,138,13.7317,True,1.0,1.0,138,True,1.0,1.0,0,0,0,0
+139,What is the distance (in light-years) of Vega from earth?,139,139,16.4301,True,1.0,1.0,139,16.3616,True,1.0,1.0,139,True,1.0,1.0,0,0,0,0
+140,What was the magnitude of the earthquake that happened in Maule on 2/27/2010?,140,140,20.5333,True,1.0,1.0,140,20.478,True,1.0,1.0,140,True,1.0,1.0,0,0,0,0
+141,How many million hectares of soil in Africa has been affected due to physical degregation?,141,141,22.6518,True,1.0,1.0,141,22.624,True,1.0,1.0,141,True,1.0,1.0,0,0,0,0
+142,"Which year did H.G. Wells write the science fiction "" The Time Machine""?",142,142,16.1638,True,1.0,1.0,142,16.1777,True,1.0,1.0,142,True,1.0,1.0,0,0,0,0
+143,How many domestic abuse cases happen every 60 seconds?,143,143,18.0183,True,1.0,1.0,143,18.0405,True,1.0,1.0,143,True,1.0,1.0,0,0,0,0
+144,Which part of the brain is colored in green?,144,109,14.3434,False,0.6309,0.6309,109,14.3359,False,0.6309,0.6309,109,False,0.6309,0.6309,0,0,0,0
+145,What was the number of casualties in the Chancellorsville battle?,145,145,21.122,True,1.0,1.0,145,20.9478,True,1.0,1.0,145,True,1.0,1.0,0,0,0,0
+146,"What is the percentage of diamonds are white in color, 98%, 1.8%, or 0.1 %?",146,146,21.6642,True,1.0,1.0,146,21.822,True,1.0,1.0,146,True,1.0,1.0,0,0,0,0
+147,Which US measure is announced but not implemented?,147,147,11.0351,True,1.0,1.0,147,10.7234,True,1.0,1.0,147,True,1.0,1.0,0,0,0,0
+148,"Out of 3, how many adolescents in the U.S is not a victim of physical, sexual, emotional, or verbal abuse from a dating partner?",148,148,33.4886,True,1.0,1.0,148,33.51,True,1.0,1.0,148,True,1.0,1.0,0,0,0,0
+149,What percentage of teens feel violent music lyrics are a problem?,149,149,18.2707,True,1.0,1.0,149,17.8975,True,1.0,1.0,149,True,1.0,1.0,0,0,0,0
+150,Which Vimeo channel about UX is mentioned fourth in the list?,150,150,17.3459,True,1.0,1.0,150,17.3184,True,1.0,1.0,150,True,1.0,1.0,0,0,0,0
+151,How many minimum requirements mentioned in this infographic?,151,151,13.2784,True,1.0,1.0,151,13.3186,True,1.0,1.0,151,True,1.0,1.0,0,0,0,0
+152,What percentage of women didn't experienced stalking in the last year?,152,152,20.4647,True,1.0,1.0,152,20.4639,True,1.0,1.0,152,True,1.0,1.0,0,0,0,0
+153,How much amount was announced for projects to address gaps in support for survivors?,153,153,17.2304,True,1.0,1.0,153,17.1506,True,1.0,1.0,153,True,1.0,1.0,0,0,0,0
+154,What percent of women in the age group of 35-44 years are often abused by a partner according to the 2016 survey?,154,154,29.8474,True,1.0,1.0,154,29.8674,True,1.0,1.0,154,True,1.0,1.0,0,0,0,0
+155,How many points under the heading sex for grades?,155,155,14.4107,True,1.0,1.0,155,14.3713,True,1.0,1.0,155,True,1.0,1.0,0,0,0,0
+156,"What is the percentage of drug abuse violations in the south and west region, taken together?",156,156,20.5558,True,1.0,1.0,156,20.458,True,1.0,1.0,156,True,1.0,1.0,0,0,0,0
+157,How many years mentioned in this infographic?,157,315,17.1827,False,0.0,0.0,315,17.1626,False,0.0,0.0,315,False,0.0,0.0,0,0,0,0
+158,What are the types of abuses other than economic & psychological?,158,177,17.5831,False,0.6309,0.6309,177,17.5398,False,0.6309,0.6309,177,False,0.6309,0.6309,0,0,0,0
+159,What is the military budget of North Korea?,159,159,16.9789,True,1.0,1.0,159,16.939,True,1.0,1.0,159,True,1.0,1.0,0,0,0,0
+160,What are the three main types of dating abuse?,160,160,18.4796,True,1.0,1.0,160,18.4683,True,1.0,1.0,160,True,1.0,1.0,0,0,0,0
+161,Which country has the highest domestic violence rate against women globally?,161,161,18.3399,True,1.0,1.0,161,18.3047,True,1.0,1.0,161,True,1.0,1.0,0,0,0,0
+162,What is the no: of helicopters available with North Korea?,162,162,18.217,True,1.0,1.0,162,18.1321,True,1.0,1.0,162,True,1.0,1.0,0,0,0,0
+163,Which two countries must have spent nearly 35 million dollars for first world war?,163,163,20.726,True,1.0,1.0,163,20.7271,True,1.0,1.0,163,True,1.0,1.0,0,0,0,0
+164,What are the three forms of violence against women?,164,155,17.9122,False,0.6309,0.6309,155,17.8894,False,0.6309,0.6309,155,False,0.6309,0.6309,0,0,0,0
+165,what ratio of the Australians were born overseas?,165,165,14.6792,True,1.0,1.0,165,14.4233,True,1.0,1.0,165,True,1.0,1.0,0,0,0,0
+166,What happens in 60 seconds in Twitter?,166,166,16.1141,True,1.0,1.0,166,16.106,True,1.0,1.0,166,True,1.0,1.0,0,0,0,0
+167,How many people got killed on the Confederacy's side?,167,186,19.483,False,0.6309,0.6309,186,19.4521,False,0.6309,0.6309,186,False,0.6309,0.6309,0,0,0,0
+168,What percent of hate crimes were not race related?,168,168,16.6678,True,1.0,1.0,168,16.5991,True,1.0,1.0,168,True,1.0,1.0,0,0,0,0
+169,How many sources are listed?,169,437,13.2658,False,0.0,0.0,437,13.2515,False,0.0,0.0,437,False,0.0,0.0,0,0,0,0
+170,How many galaxies are there in the universe?,170,170,15.7059,True,1.0,1.0,170,15.6118,True,1.0,1.0,170,True,1.0,1.0,0,0,0,0
+171,What % of girls say that they never feel comfortable using school latrines,171,149,14.2696,False,0.5,0.5,149,14.2451,False,0.5,0.5,149,False,0.5,0.5,0,0,0,0
+172,Which are the top 2 best selling non violent video games of all time,172,172,21.0331,True,1.0,1.0,172,21.0952,True,1.0,1.0,172,True,1.0,1.0,0,0,0,0
+173,What percentage of women did not report sexual violence to police in 2014-15 ?,173,173,22.2648,True,1.0,1.0,173,22.2344,True,1.0,1.0,173,True,1.0,1.0,0,0,0,0
+174,How many sectors can be used for developing news partnerships to fight sexual violence?,174,174,17.2343,True,1.0,1.0,174,17.2346,True,1.0,1.0,174,True,1.0,1.0,0,0,0,0
+175,What percentage of the population feel that video games do not affect the behavior of children?,175,175,19.6822,True,1.0,1.0,172,19.7078,False,0.6309,0.6309,175,True,1.0,1.0,0,0,0,0
+176,Which gun is most common in 2012?,176,176,18.1975,True,1.0,1.0,176,18.1084,True,1.0,1.0,176,True,1.0,1.0,0,0,0,0
+177,"Which is the 4th point listed under ""typical abusive behaviors""?",177,177,16.2953,True,1.0,1.0,177,16.2139,True,1.0,1.0,177,True,1.0,1.0,0,0,0,0
+178,Which country falls on the western side of Belgium and Germany?,178,373,14.3299,False,0.0,0.0,373,14.2927,False,0.0,0.0,373,False,0.0,0.0,0,0,0,0
+179,World War 1 was fought between whom,179,179,16.2049,True,1.0,1.0,179,16.166,True,1.0,1.0,179,True,1.0,1.0,0,0,0,0
+180,Which Canadian cities have a rank between 50 and 60 for workplace violence?,180,180,18.8548,True,1.0,1.0,180,18.7886,True,1.0,1.0,180,True,1.0,1.0,0,0,0,0
+181,What percent of Pinterest users are men?,181,112,15.6448,False,0.6309,0.6309,112,15.6323,False,0.6309,0.6309,112,False,0.6309,0.6309,0,0,0,0
+182,How many women are in this infographic?,182,78,14.7227,False,0.0,0.0,78,14.6631,False,0.0,0.0,78,False,0.0,0.0,0,0,0,0
+183,What is the number of living U.S. World War II veterans in 1990?,183,183,24.5104,True,1.0,1.0,183,24.4917,True,1.0,1.0,183,True,1.0,1.0,0,0,0,0
+184,"Out of the total New Orleans population, how many are enslaved people in 1860?",184,184,23.8814,True,1.0,1.0,184,23.8445,True,1.0,1.0,184,True,1.0,1.0,0,0,0,0
+185,When did Japan attack the U.S. at Pearl Harbor?,185,185,18.5088,True,1.0,1.0,185,18.5493,True,1.0,1.0,185,True,1.0,1.0,0,0,0,0
+186,How many union soldiers were killed in the Battle of Chickamauga?,186,186,20.0525,True,1.0,1.0,186,20.0391,True,1.0,1.0,186,True,1.0,1.0,0,0,0,0
+187,How many types of coffee grinding apparatus are shown in the infographic?,187,187,18.0457,True,1.0,1.0,187,18.0542,True,1.0,1.0,187,True,1.0,1.0,0,0,0,0
+188,which age group is the most affected among reported cases?,188,282,13.8273,False,0.0,0.0,282,13.8669,False,0.0,0.0,282,False,0.0,0.0,0,0,0,0
+189,In which year the LSU stadium renovated?,189,189,12.9235,True,1.0,1.0,189,12.8975,True,1.0,1.0,189,True,1.0,1.0,0,0,0,0
+190,What is the difference in the average time spent on radio in 2018 and 2019?,190,190,21.7689,True,1.0,1.0,190,21.8584,True,1.0,1.0,190,True,1.0,1.0,0,0,0,0
+191,What was the percent of change in company coal generation of RWE?,191,191,18.0443,True,1.0,1.0,191,17.8354,True,1.0,1.0,191,True,1.0,1.0,0,0,0,0
+192,"Which stream requires deductive reasoning, Inductive reasoning and problem solving skills - STEM or STEAM?",192,192,21.1806,True,1.0,1.0,192,21.1699,True,1.0,1.0,192,True,1.0,1.0,0,0,0,0
+193,"What is used to represent digital storage devices - circle, square or hexagon?",193,193,15.5358,True,1.0,1.0,193,15.3809,True,1.0,1.0,193,True,1.0,1.0,0,0,0,0
+194,What is the growth rate % of investments from Europe?,194,194,16.6088,True,1.0,1.0,194,16.5527,True,1.0,1.0,194,True,1.0,1.0,0,0,0,0
+195,"What was voted by Nigeria, Pakistan and Qatar regarding gay rights - Yes or No?",195,195,17.9463,True,1.0,1.0,195,18.0645,True,1.0,1.0,195,True,1.0,1.0,0,0,0,0
+196,What percentage of the Indian population is vaccinated against Polio in 2012?,196,196,22.2604,True,1.0,1.0,196,22.2188,True,1.0,1.0,196,True,1.0,1.0,0,0,0,0
+197,When was the North Korean invasion,197,159,12.6086,False,0.6309,0.6309,159,12.5935,False,0.6309,0.6309,159,False,0.6309,0.6309,0,0,0,0
+198,"If taking a sample of ten drivers, how many did not make any changes in their driving habits for saving fuel?",198,198,22.6942,True,1.0,1.0,198,22.4137,True,1.0,1.0,198,True,1.0,1.0,0,0,0,0
+199,What is the next step to be taken if there are no discussions to be held with ECMO Consultant?,199,199,23.5862,True,1.0,1.0,199,23.7271,True,1.0,1.0,199,True,1.0,1.0,0,0,0,0
+200,"WHat is the jersey colour of canada, white or red",200,200,14.7267,True,1.0,1.0,200,14.6514,True,1.0,1.0,200,True,1.0,1.0,0,0,0,0
+201,How many steps have been advised for those attending an Eid Al Adha prayer meeting?,201,201,22.3468,True,1.0,1.0,201,22.2261,True,1.0,1.0,201,True,1.0,1.0,0,0,0,0
+202,"What is the claims to be paid in pounds due to the Corona virus pandemic, 84 m , 45 m, or 1.7 bn?",202,202,30.4927,True,1.0,1.0,202,30.3071,True,1.0,1.0,202,True,1.0,1.0,0,0,0,0
+203,What percentage of charities would not be making a loss?,203,203,17.2503,True,1.0,1.0,203,17.2163,True,1.0,1.0,203,True,1.0,1.0,0,0,0,0
+204,How many activities have the lowest risk involved ?,204,204,16.8711,True,1.0,1.0,204,16.8496,True,1.0,1.0,204,True,1.0,1.0,0,0,0,0
+205,What is the Irish Seafood export value (in euro million) in 2013?,205,205,20.1254,True,1.0,1.0,205,20.0867,True,1.0,1.0,205,True,1.0,1.0,0,0,0,0
+206,What is the percentage of women visitors on Commercial Drive?,206,206,15.7032,True,1.0,1.0,206,15.6255,True,1.0,1.0,206,True,1.0,1.0,0,0,0,0
+207,What is the civilian death percentage in Israel?,207,207,15.0861,True,1.0,1.0,207,15.0688,True,1.0,1.0,207,True,1.0,1.0,0,0,0,0
+208,What is the percentage of  NFL revenue in 2005?,208,208,18.8296,True,1.0,1.0,208,18.7168,True,1.0,1.0,208,True,1.0,1.0,0,0,0,0
+209,Which all types of the post has more than 500 average shares?,209,209,17.3431,True,1.0,1.0,209,17.1868,True,1.0,1.0,209,True,1.0,1.0,0,0,0,0
+210,"How many youngsters felt that they wanted to manage money better 78%, 80%, or 81%?",210,210,21.2733,True,1.0,1.0,210,21.2698,True,1.0,1.0,210,True,1.0,1.0,0,0,0,0
+211,"Which of the folllowing gives the lowest interest rates, Bank of England, European Central Bank, or US FED?",211,211,23.0879,True,1.0,1.0,211,22.9861,True,1.0,1.0,211,True,1.0,1.0,0,0,0,0
+212,What percentage of transgender adults are not cigarette smokers?,212,212,14.4305,True,1.0,1.0,212,14.3467,True,1.0,1.0,212,True,1.0,1.0,0,0,0,0
+213,"Which color used to represent Assault-orange, yellow, green, red?",213,143,14.5572,False,0.0,0.0,143,14.6702,False,0.0,0.0,143,False,0.0,0.0,0,0,0,0
+214,What is the safe internal cooking temperature (in Fahrenheit) for fish?,214,214,18.6411,True,1.0,1.0,214,18.438,True,1.0,1.0,214,True,1.0,1.0,0,0,0,0
+215,Which movie made $358 million in ticket sales worldwide in 2001?,215,215,20.7297,True,1.0,1.0,215,20.6506,True,1.0,1.0,215,True,1.0,1.0,0,0,0,0
+216,In which county is Dingle Distillery?,216,216,14.4951,True,1.0,1.0,216,14.418,True,1.0,1.0,216,True,1.0,1.0,0,0,0,0
+217,Which year did Staff/student ratio go from 15.5:1 to 19.4:1?,217,217,26.4714,True,1.0,1.0,217,26.249,True,1.0,1.0,217,True,1.0,1.0,0,0,0,0
+218,Which cheeses are preferred by 32% and 31% of people?,218,58,16.93,False,0.6309,0.6309,58,16.843,False,0.6309,0.6309,58,False,0.6309,0.6309,0,0,0,0
+219,How many countries fall within the High Mobility and Low Recovery are of the map ?,219,219,21.7001,True,1.0,1.0,219,21.582,True,1.0,1.0,219,True,1.0,1.0,0,0,0,0
+220,What are the types of learners listed?,220,89,10.9003,False,0.5,0.5,89,10.7268,False,0.5,0.5,89,False,0.5,0.5,0,0,0,0
+221,What food item is represented by yellow colour?,221,236,13.1928,False,0.4307,0.4307,236,13.1504,False,0.4307,0.4307,236,False,0.4307,0.4307,0,0,0,0
+222,What were the patients diagnosed with Coronavirus advised to do if they were severe symptoms or critically unwell?,222,222,21.7234,True,1.0,1.0,222,21.7598,True,1.0,1.0,222,True,1.0,1.0,0,0,0,0
+223,How many sources are listed?,223,437,13.2658,False,0.0,0.0,437,13.2515,False,0.0,0.0,437,False,0.0,0.0,0,0,0,0
+224,Which amendment guarantees the freedom of religion speech and assembly?,224,224,15.8401,True,1.0,1.0,224,15.4158,True,1.0,1.0,224,True,1.0,1.0,0,0,0,0
+225,What percentage of VOD viewers hear about movies and TV not through word of mouth?,225,225,20.0117,True,1.0,1.0,225,19.9275,True,1.0,1.0,225,True,1.0,1.0,0,0,0,0
+226,How many calls come for Garbage management service?,226,226,11.6058,True,1.0,1.0,226,11.4937,True,1.0,1.0,226,True,1.0,1.0,0,0,0,0
+227,Which are the top 3 world's most social countries?,227,227,13.6582,True,1.0,1.0,227,14.0132,True,1.0,1.0,227,True,1.0,1.0,0,0,0,0
+228,What is the number of males using Pinterest in a population of 100 people?,228,228,20.0711,True,1.0,1.0,228,20.0547,True,1.0,1.0,228,True,1.0,1.0,0,0,0,0
+229,What sends texts to plant-owners,229,229,10.846,True,1.0,1.0,229,10.2704,True,1.0,1.0,229,True,1.0,1.0,0,0,0,0
+230,What is the percentage of children placed for adoption between the age group 13-19?,230,230,23.0724,True,1.0,1.0,230,23.167,True,1.0,1.0,230,True,1.0,1.0,0,0,0,0
+231,"In which year ""Gone with the wind"" released?",231,231,15.1973,True,1.0,1.0,231,15.2048,True,1.0,1.0,231,True,1.0,1.0,0,0,0,0
+232,What was the ticket prices in the year 1990?,232,232,15.1509,True,1.0,1.0,232,15.0957,True,1.0,1.0,232,True,1.0,1.0,0,0,0,0
+233,How many free-zones are operating in the UAE?,233,233,15.0598,True,1.0,1.0,233,14.9871,True,1.0,1.0,233,True,1.0,1.0,0,0,0,0
+234,Who is the founder of modern chemistry?,234,62,8.9691,False,0.4307,0.4307,62,8.9697,False,0.0,0.3562,62,False,0.4307,0.4307,0,0,0,0
+235,WHich are the industries with the top 3 labour force,235,235,16.5901,True,1.0,1.0,235,16.5352,True,1.0,1.0,235,True,1.0,1.0,0,0,0,0
+236,How long yogurt can be stored fresh in the refrigerator?,236,236,17.1116,True,1.0,1.0,236,17.0391,True,1.0,1.0,236,True,1.0,1.0,0,0,0,0
+237,What percentage of social care workers are employed by recruitment agencies in Northern Ireland?,237,237,18.4545,True,1.0,1.0,237,18.4663,True,1.0,1.0,237,True,1.0,1.0,0,0,0,0
+238,"In 2011, how many children died due to motor vehicle accidents?",238,238,21.1522,True,1.0,1.0,238,21.1187,True,1.0,1.0,238,True,1.0,1.0,0,0,0,0
+239,What is the total number of seats before and after refurbishment?,239,239,18.6927,True,1.0,1.0,239,18.668,True,1.0,1.0,239,True,1.0,1.0,0,0,0,0
+240,How many yes are in this infographic?,240,472,14.2247,False,0.6309,0.6309,472,14.2451,False,0.6309,0.6309,472,False,0.6309,0.6309,0,0,0,0
+241,How much food grain is allotted per person per month?,241,241,15.4816,True,1.0,1.0,241,15.377,True,1.0,1.0,241,True,1.0,1.0,0,0,0,0
+242,Which state has an A grade in state science standards ?,242,242,15.7729,True,1.0,1.0,242,15.5796,True,1.0,1.0,242,True,1.0,1.0,0,0,0,0
+243,Who was the manager of the team from 1974 - 1977?,243,243,20.1196,True,1.0,1.0,243,20.1919,True,1.0,1.0,243,True,1.0,1.0,0,0,0,0
+244,Which team from the Big 12 is represented as BAY and KSU?,244,244,16.5148,True,1.0,1.0,244,16.4646,True,1.0,1.0,244,True,1.0,1.0,0,0,0,0
+245,When was the fermentation first used?,245,216,13.7703,False,0.6309,0.6309,216,13.6973,False,0.6309,0.6309,216,False,0.6309,0.6309,0,0,0,0
+246,How many brands have more than 2 million fans?,246,246,16.6533,True,1.0,1.0,246,16.5818,True,1.0,1.0,246,True,1.0,1.0,0,0,0,0
+247,What percent of Americans aged 45-64 years have some type of hearing loss?,247,247,22.6031,True,1.0,1.0,247,22.6685,True,1.0,1.0,247,True,1.0,1.0,0,0,0,0
+248,What percent of social gamers in the U.S. & U.K. has not purchased virtual currency with real-world money?,248,248,20.944,True,1.0,1.0,248,20.8503,True,1.0,1.0,248,True,1.0,1.0,0,0,0,0
+249,Which football club retains the third position in the Football Money League 2018?,249,249,20.8493,True,1.0,1.0,249,20.7854,True,1.0,1.0,249,True,1.0,1.0,0,0,0,0
+250,How many women are in this infographic?,250,78,14.7227,False,0.0,0.3333,78,14.6631,False,0.0,0.3562,78,False,0.0,0.3333,0,0,0,0
+251,"How many regulatory authorized diagnostics tests are there to identify COVID-19 cases 40,41, or 42?",251,251,24.5093,True,1.0,1.0,251,24.4248,True,1.0,1.0,251,True,1.0,1.0,0,0,0,0
+252,How many Irish people fled to America during the 1800s Great Irish Potato Famine?,252,252,18.9953,True,1.0,1.0,252,19.0791,True,1.0,1.0,252,True,1.0,1.0,0,0,0,0
+253,When did Trump launch his presidential campaign?,253,253,15.6806,True,1.0,1.0,253,15.6367,True,1.0,1.0,253,True,1.0,1.0,0,0,0,0
+254,What is the entire annual food production in Sub-Saharan Africa?,254,254,17.8473,True,1.0,1.0,254,17.8481,True,1.0,1.0,254,True,1.0,1.0,0,0,0,0
+255,"What is the percentage of Facebook users of age group 0-17 and 18-24, taken together?",255,255,24.0046,True,1.0,1.0,255,24.0674,True,1.0,1.0,255,True,1.0,1.0,0,0,0,0
+256,How many categories of businesses are liable to receive cash grants?,256,256,16.3315,True,1.0,1.0,256,16.2258,True,1.0,1.0,256,True,1.0,1.0,0,0,0,0
+257,"How many women dressed in black for people suffering Coronavirus, 308, 28, or 35?",257,257,21.8958,True,1.0,1.0,257,21.4973,True,1.0,1.0,257,True,1.0,1.0,0,0,0,0
+258,"Which disease has the highest mortality rate between, COVID-19, MERS, and EBOLA?",258,258,24.7222,True,1.0,1.0,258,24.6182,True,1.0,1.0,258,True,1.0,1.0,0,0,0,0
+259,What percentage of cannabis users used it very often during the first lockdown ?,259,259,17.7215,True,1.0,1.0,259,17.6821,True,1.0,1.0,259,True,1.0,1.0,0,0,0,0
+260,How many different types of bias mentioned in this infographic?,260,260,16.6546,True,1.0,1.0,260,16.6646,True,1.0,1.0,260,True,1.0,1.0,0,0,0,0
+261,Approximately what percent of in-store purchases are initiated online?,261,261,15.7143,True,1.0,1.0,261,15.7305,True,1.0,1.0,261,True,1.0,1.0,0,0,0,0
+262,In which countries the restaurants industry is expected to recover between 6-12 months?,262,262,22.8644,True,1.0,1.0,262,22.9146,True,1.0,1.0,262,True,1.0,1.0,0,0,0,0
+263,What are the three main reasons for stress?,263,96,16.2346,False,0.6309,0.6309,96,16.2534,False,0.6309,0.6309,96,False,0.6309,0.6309,0,0,0,0
+264,Who has done this infographic?,264,237,13.2734,False,0.0,0.0,237,13.2925,False,0.0,0.0,237,False,0.0,0.0,0,0,0,0
+265,When was the first casualty due to Coronavirus reported ?,265,265,16.3517,True,1.0,1.0,265,16.3452,True,1.0,1.0,265,True,1.0,1.0,0,0,0,0
+266,which of the divergent realities have the most market?,266,266,14.4398,True,1.0,1.0,266,14.4307,True,1.0,1.0,266,True,1.0,1.0,0,0,0,0
+267,What percentage of men have an 'Active' profile in YouTube?,267,267,18.3003,True,1.0,1.0,267,18.0715,True,1.0,1.0,267,True,1.0,1.0,0,0,0,0
+268,What percent of Americans wear denims to office?,268,268,10.5973,True,1.0,1.0,268,10.6346,True,1.0,1.0,268,True,1.0,1.0,0,0,0,0
+269,Which are the two types of test for detection of COVID-19?,269,269,19.9336,True,1.0,1.0,269,19.9648,True,1.0,1.0,269,True,1.0,1.0,0,0,0,0
+270,Which process hires the highest percentage of  WAHA agents?,270,41,11.598,False,0.0,0.0,41,11.3353,False,0.0,0.0,41,False,0.0,0.0,0,0,0,0
+271,How are data centers built to protect servers in case of natural disasters?,271,271,16.0799,True,1.0,1.0,271,15.9958,True,1.0,1.0,271,True,1.0,1.0,0,0,0,0
+272,"What is expected time period to improve transport facilities, 10 years, 3 years, or 4 years?",272,494,19.6619,False,0.6309,0.6309,494,19.698,False,0.6309,0.6309,494,False,0.6309,0.6309,0,0,0,0
+273,What should be done with an object if it is not needed or it has never been used?,273,408,15.2345,False,0.0,0.0,408,15.2056,False,0.0,0.0,408,False,0.0,0.0,0,0,0,0
+274,"Which is the only company to obtain patent for COVID-19 vaccine, Sinovac, Sinopharm, or CanSino ?",274,274,27.6,True,1.0,1.0,274,27.48,True,1.0,1.0,274,True,1.0,1.0,0,0,0,0
+275,What is the value of non-drugs sold on the dark web?,275,275,19.2557,True,1.0,1.0,275,19.2271,True,1.0,1.0,275,True,1.0,1.0,0,0,0,0
+276,How many tips for safe online dating  are given?,276,276,19.1185,True,1.0,1.0,276,19.0562,True,1.0,1.0,276,True,1.0,1.0,0,0,0,0
+277,Which countries gave 29% negative public reviews for UK's pandemic response?,277,277,20.9219,True,1.0,1.0,277,20.9114,True,1.0,1.0,277,True,1.0,1.0,0,0,0,0
+278,Which country has the highest hospital count?,278,278,15.4184,True,1.0,1.0,278,15.3364,True,1.0,1.0,278,True,1.0,1.0,0,0,0,0
+279,What percentage of the population in Canada has access to clean water?,279,279,16.3345,True,1.0,1.0,279,16.3418,True,1.0,1.0,279,True,1.0,1.0,0,0,0,0
+280,What does 'R' stand for?,280,262,11.4598,False,0.6309,0.6309,262,11.4277,False,0.6309,0.6309,262,False,0.6309,0.6309,0,0,0,0
+281,Which surface disinfectant is present in the white bottle ?,281,281,13.6637,True,1.0,1.0,281,13.6343,True,1.0,1.0,281,True,1.0,1.0,0,0,0,0
+282,Which country has a higher percentage of population between 70-79 affected by Coronavirus?,282,282,20.687,True,1.0,1.0,282,20.7212,True,1.0,1.0,282,True,1.0,1.0,0,0,0,0
+283,"Who consumes the highest percentage of energy in Texas, residences, businesses, or industries?",283,283,20.4202,True,1.0,1.0,283,20.2524,True,1.0,1.0,283,True,1.0,1.0,0,0,0,0
+284,"What was the amount of people supported cross region, 1,000, 12,000, or 15,000?",284,284,28.4666,True,1.0,1.0,284,28.7285,True,1.0,1.0,284,True,1.0,1.0,0,0,0,0
+285,what percent of people feel that solving world peace would be easier than remembering passwords?,285,285,17.9312,True,1.0,1.0,285,17.7695,True,1.0,1.0,285,True,1.0,1.0,0,0,0,0
+286,What is written on the image of the calendar ?,286,9,18.2227,False,0.0,0.0,9,18.2109,False,0.0,0.0,9,False,0.0,0.0,0,0,0,0
+287,What is the average salary of a farmer in a real farm?,287,287,15.7542,True,1.0,1.0,287,15.6594,True,1.0,1.0,287,True,1.0,1.0,0,0,0,0
+288,What was the number of lost attendances every month during the 3 month ban dur to COVID-19?,288,288,25.0313,True,1.0,1.0,288,24.9592,True,1.0,1.0,288,True,1.0,1.0,0,0,0,0
+289,"When was ""Future End"" series of Star Trek aired on TV?",289,289,15.8737,True,1.0,1.0,289,15.8594,True,1.0,1.0,289,True,1.0,1.0,0,0,0,0
+290,How many country flags are in this infographic?,290,382,15.8013,False,0.0,0.0,382,15.8623,False,0.0,0.0,382,False,0.0,0.0,0,0,0,0
+291,"Are the students entitled to receive three square meals per days, Yes or No?",291,291,18.1461,True,1.0,1.0,291,17.9236,True,1.0,1.0,291,True,1.0,1.0,0,0,0,0
+292,What percentage of energy spend on lighting and appliances together?,292,292,17.5041,True,1.0,1.0,292,17.4438,True,1.0,1.0,292,True,1.0,1.0,0,0,0,0
+293,What percent of world population won't have access to vaccine until 2022?,293,293,24.2656,True,1.0,1.0,293,24.1157,True,1.0,1.0,293,True,1.0,1.0,0,0,0,0
+294,How many iPhone models have a battery power of 10 hrs to watch a video?,294,294,21.846,True,1.0,1.0,294,21.8359,True,1.0,1.0,294,True,1.0,1.0,0,0,0,0
+295,"As per the infographic, which continent has the lowest number of COVID-19 cases?",295,295,23.5725,True,1.0,1.0,295,23.5098,True,1.0,1.0,295,True,1.0,1.0,0,0,0,0
+296,"What % of HR professionals, agree that traditional education is easier than online education?",296,296,18.1011,True,1.0,1.0,296,17.9456,True,1.0,1.0,296,True,1.0,1.0,0,0,0,0
+297,How many ingredients needed for making grandma's apple pie?,297,297,19.8304,True,1.0,1.0,297,19.7944,True,1.0,1.0,297,True,1.0,1.0,0,0,0,0
+298,What is the third reason for Kitchen remodeling in 2016?,298,298,21.7098,True,1.0,1.0,298,21.6841,True,1.0,1.0,298,True,1.0,1.0,0,0,0,0
+299,"When was Winston Churchill's nap time, 4.30pm to 6:30pm, 4:00am to 6:00am, or 4:30 am to 6:30 am?",299,303,32.5254,False,0.3869,0.3869,303,33.334,False,0.0,0.3333,303,False,0.3869,0.3869,0,0,0,0
+300,"What color are Asian destinations- red, yellow, green, blue?",300,198,14.7578,False,0.4307,0.4307,307,14.5935,False,0.4307,0.4307,198,False,0.4307,0.4307,0,0,0,0
+301,Which programming language has the third-highest job openings in California?,301,301,16.9642,True,1.0,1.0,301,16.9707,True,1.0,1.0,301,True,1.0,1.0,0,0,0,0
+302,"When was the Super Trivia volume 2 published, 1974, 1977, or 1981?",302,302,23.5856,True,1.0,1.0,302,23.4807,True,1.0,1.0,302,True,1.0,1.0,0,0,0,0
+303,"Which is more effective, smaller doses of coffee or larger doses of coffee?",303,303,20.243,True,1.0,1.0,303,20.2385,True,1.0,1.0,303,True,1.0,1.0,0,0,0,0
+304,Which is the best online video sharing platform?,304,150,13.6537,False,0.0,0.0,150,13.5703,False,0.0,0.0,150,False,0.0,0.0,0,0,0,0
+305,What percentage of travel writers own a laptop according to the survey?,305,305,16.6585,True,1.0,1.0,305,16.6599,True,1.0,1.0,305,True,1.0,1.0,0,0,0,0
+306,How many ailments of IT department are mentioned here?,306,306,15.9199,True,1.0,1.0,306,15.8926,True,1.0,1.0,306,True,1.0,1.0,0,0,0,0
+307,Which was the most visited city in Australia in 2010?,307,307,18.5261,True,1.0,1.0,307,18.5706,True,1.0,1.0,307,True,1.0,1.0,0,0,0,0
+308,Which town has the highest median family income?,308,308,15.6674,True,1.0,1.0,308,15.5703,True,1.0,1.0,308,True,1.0,1.0,0,0,0,0
+309,"How many food items listed have ""GOOD"" evidence in maintaining blood pressure?",309,309,18.7527,True,1.0,1.0,309,18.6313,True,1.0,1.0,309,True,1.0,1.0,0,0,0,0
+310,What percentage of dogs do not welcome foods from an unknown person who fought against his master?,310,310,17.9036,True,1.0,1.0,310,17.8669,True,1.0,1.0,310,True,1.0,1.0,0,0,0,0
+311,What is the number of aircraft?,311,162,10.5588,False,0.0,0.3562,162,10.3562,False,0.0,0.3562,162,False,0.0,0.3562,0,0,0,0
+312,How much does the average UK household spend (in pounds) on Christmas in 2016/17?,312,312,26.9583,True,1.0,1.0,312,26.9985,True,1.0,1.0,312,True,1.0,1.0,0,0,0,0
+313,what is the second problem given that is related to marketing?,313,313,17.398,True,1.0,1.0,313,17.4568,True,1.0,1.0,313,True,1.0,1.0,0,0,0,0
+314,What is the scientific name of ginger?,314,314,15.7055,True,1.0,1.0,314,15.6785,True,1.0,1.0,314,True,1.0,1.0,0,0,0,0
+315,who are the actors wearing Ray-Ban glasses in the movies?,315,315,17.4834,True,1.0,1.0,315,17.4458,True,1.0,1.0,315,True,1.0,1.0,0,0,0,0
+316,How many home game consoles developed before 1990?,316,316,19.0546,True,1.0,1.0,316,19.085,True,1.0,1.0,316,True,1.0,1.0,0,0,0,0
+317,What percent of women intend to wear mask in public places?,317,317,18.009,True,1.0,1.0,317,17.9297,True,1.0,1.0,317,True,1.0,1.0,0,0,0,0
+318,How many sources are listed?,318,437,13.2658,False,0.0,0.0,437,13.2515,False,0.0,0.0,437,False,0.0,0.0,0,0,0,0
+319,Which city had the highest hotel prices in 2011?,319,319,20.6732,True,1.0,1.0,319,20.6572,True,1.0,1.0,319,True,1.0,1.0,0,0,0,0
+320,Which hormone helps to convert blood sugar into energy?,320,109,10.3865,False,0.5,0.5,109,10.2974,False,0.5,0.5,109,False,0.5,0.5,0,0,0,0
+321,What was the number of typeface fonts available in 2005?,321,321,13.7819,True,1.0,1.0,321,13.9231,True,1.0,1.0,321,True,1.0,1.0,0,0,0,0
+322,"Which company had the second highest blog coverage, Coca-Cola, Samsung, or MaC Donald's?",322,322,24.6209,True,1.0,1.0,322,24.6414,True,1.0,1.0,322,True,1.0,1.0,0,0,0,0
+323,Which is the third most popular online shopping site?,323,323,14.4003,True,1.0,1.0,323,14.3555,True,1.0,1.0,323,True,1.0,1.0,0,0,0,0
+324,What are the three types of domestic violence?,324,158,17.4978,False,0.4307,0.4307,158,17.5562,False,0.4307,0.4307,158,False,0.4307,0.4307,0,0,0,0
+325,What is the trade deficit in merchandise for April-May 2020-21?,325,325,23.4597,True,1.0,1.0,325,23.209,True,1.0,1.0,325,True,1.0,1.0,0,0,0,0
+326,What percent of Boomers played games on mobile during quarantine?,326,326,18.0337,True,1.0,1.0,326,17.917,True,1.0,1.0,326,True,1.0,1.0,0,0,0,0
+327,Which two countries are connected by the Channel Tunnel?,327,327,16.5005,True,1.0,1.0,327,16.4102,True,1.0,1.0,327,True,1.0,1.0,0,0,0,0
+328,How many beer brands are owned by DIAGEO?,328,328,17.9074,True,1.0,1.0,328,17.0234,True,1.0,1.0,328,True,1.0,1.0,0,0,0,0
+329,How many female athletes from Canada took part in skiing in 2014 Canadian Olympics?,329,329,24.0699,True,1.0,1.0,329,24.0164,True,1.0,1.0,329,True,1.0,1.0,0,0,0,0
+330,Which is the 28th state in the US?,330,389,16.171,False,0.6309,0.6309,389,16.2083,False,0.6309,0.6309,389,False,0.6309,0.6309,0,0,0,0
+331,"Which country has used the key term 'Ruby on Rails' the most as a search term according to google trends as of April 27, 2012?",331,331,30.4035,True,1.0,1.0,331,30.5034,True,1.0,1.0,331,True,1.0,1.0,0,0,0,0
+332,What should be the capacity of a backpack that needs to be carried for a weekend stay?,332,332,21.5866,True,1.0,1.0,332,21.5662,True,1.0,1.0,332,True,1.0,1.0,0,0,0,0
+333,What is the memory size of iPhone 5?,333,366,16.2364,False,0.5,0.5,366,16.2002,False,0.5,0.5,366,False,0.5,0.5,0,0,0,0
+334,What percent of professionals reported increase in work hours?,334,429,14.9517,False,0.6309,0.6309,334,15.019,True,1.0,1.0,429,False,0.6309,0.6309,0,0,0,0
+335,Which marathon was held in January 2012 in the U.S.?,335,356,15.1801,False,0.6309,0.6309,356,15.1641,False,0.6309,0.6309,356,False,0.6309,0.6309,0,0,0,0
+336,What percentage of respondents in Nigeria have a lot of confidence or some confidence in Obama's ability to do the right thing in world affairs according to the study?,336,336,31.3992,True,1.0,1.0,336,31.3384,True,1.0,1.0,336,True,1.0,1.0,0,0,0,0
+337,What percentage of respondents use social networks to find a job in IT industry according to the survey?,337,3,18.7068,False,0.6309,0.6309,3,18.7014,False,0.6309,0.6309,3,False,0.6309,0.6309,0,0,0,0
+338,How many patents does IBM own from 2008 to 2012?,338,338,19.2165,True,1.0,1.0,338,19.1099,True,1.0,1.0,338,True,1.0,1.0,0,0,0,0
+339,how many would be ready to share positive covid-19 status anonymously?,339,339,18.4644,True,1.0,1.0,339,18.3232,True,1.0,1.0,339,True,1.0,1.0,0,0,0,0
+340,What percentage of devices will get stolen at work/office?,340,180,12.2342,False,0.0,0.3333,180,12.2273,False,0.0,0.3155,180,False,0.0,0.3333,0,0,0,0
+341,In what percentage of companies more than ten employees work?,341,120,14.1352,False,0.4307,0.4307,120,14.1304,False,0.3869,0.3869,120,False,0.4307,0.4307,0,0,0,0
+342,Which EMR Software platform is used by athenahealth?,342,342,12.8724,True,1.0,1.0,342,12.6719,True,1.0,1.0,342,True,1.0,1.0,0,0,0,0
+343,How many daily active users were there for the 'Draw Something' app in week 6 of its launch?,343,343,24.3972,True,1.0,1.0,343,24.4629,True,1.0,1.0,343,True,1.0,1.0,0,0,0,0
+344,What is the percentage of time spent in meetings by an average employee?,344,344,17.1108,True,1.0,1.0,344,17.0093,True,1.0,1.0,344,True,1.0,1.0,0,0,0,0
+345,Which Raptors player had an all-star appearance as a center in 1999-2004 period?,345,345,27.0677,True,1.0,1.0,345,27.042,True,1.0,1.0,345,True,1.0,1.0,0,0,0,0
+346,What is the oldest courthouse in the United States?,346,346,16.4663,True,1.0,1.0,346,16.458,True,1.0,1.0,346,True,1.0,1.0,0,0,0,0
+347,What percentage of SEO pages had duplicate content,347,347,12.2291,True,1.0,1.0,347,12.1318,True,1.0,1.0,347,True,1.0,1.0,0,0,0,0
+348,Which is the top brand with most social brand value?,348,348,18.3942,True,1.0,1.0,348,18.3809,True,1.0,1.0,348,True,1.0,1.0,0,0,0,0
+349,How many times did Michael Jordan get All-Star award?,349,349,17.9476,True,1.0,1.0,349,17.9634,True,1.0,1.0,349,True,1.0,1.0,0,0,0,0
+350,"What is the color for Zone 8- red, green, yellow, blue?",350,350,16.844,True,1.0,1.0,350,17.0005,True,1.0,1.0,350,True,1.0,1.0,0,0,0,0
+351,Which team's home game will be played on November 21?,351,351,14.8731,True,1.0,1.0,351,14.8557,True,1.0,1.0,351,True,1.0,1.0,0,0,0,0
+352,What percentage of respondents displayed real Christmas trees in their homes according to the 2012 survey?,352,352,22.5238,True,1.0,1.0,352,22.5127,True,1.0,1.0,352,True,1.0,1.0,0,0,0,0
+353,What is the average replacement cost of a refrigerator?,353,353,17.9671,True,1.0,1.0,353,17.9258,True,1.0,1.0,353,True,1.0,1.0,0,0,0,0
+354,"what percent of oil are used for air, trekking and automobile?",354,29,13.2607,False,0.6309,0.6309,29,13.4775,False,0.5,0.5,29,False,0.6309,0.6309,0,0,0,0
+355,What percent of Canadians have chosen organic for their family health?,355,355,18.2464,True,1.0,1.0,355,18.2622,True,1.0,1.0,355,True,1.0,1.0,0,0,0,0
+356,In which year did US basket ball team boycott olympic games?,356,356,17.5115,True,1.0,1.0,356,17.4204,True,1.0,1.0,356,True,1.0,1.0,0,0,0,0
+357,Who was the MVP of 1990?,357,357,14.4479,True,1.0,1.0,357,14.5386,True,1.0,1.0,357,True,1.0,1.0,0,0,0,0
+358,When was the comprehensive peace agreement signed in Nairobi?,358,57,11.3466,False,0.0,0.301,57,11.2917,False,0.0,0.0,57,False,0.0,0.301,0,0,0,0
+359,Which is the world's first DSLR camera?,359,11,12.7484,False,0.5,0.5,11,12.8171,False,0.5,0.5,11,False,0.5,0.5,0,0,0,0
+360,How many daily flights are there from Toronto City Airport to New York City?,360,360,20.8431,True,1.0,1.0,360,20.769,True,1.0,1.0,360,True,1.0,1.0,0,0,0,0
+361,What should be worn by health workers to cover their eyes when taking care of coronavirus patients?,361,361,21.8682,True,1.0,1.0,361,21.8066,True,1.0,1.0,361,True,1.0,1.0,0,0,0,0
+362,what is the second last tip given in this infographic?,362,437,18.5145,False,0.4307,0.4307,437,18.4834,False,0.5,0.5,437,False,0.4307,0.4307,0,0,0,0
+363,Who is likely to [insert dramatic crime] in the event of being fired?,363,433,12.8672,False,0.0,0.0,433,12.5862,False,0.0,0.0,433,False,0.0,0.0,0,0,0,0
+364,How many targeting case studies are shown?,364,364,14.0377,True,1.0,1.0,364,13.8955,True,1.0,1.0,364,True,1.0,1.0,0,0,0,0
+365,Which year was the peak time of Social Networks?,365,422,14.1113,False,0.6309,0.6309,422,14.1074,False,0.6309,0.6309,422,False,0.6309,0.6309,0,0,0,0
+366,How long did an iPhone 3GS battery last during talk time?,366,366,20.1649,True,1.0,1.0,366,20.0908,True,1.0,1.0,366,True,1.0,1.0,0,0,0,0
+367,what will public health system will do id they miss any contacts of patient?,367,367,18.5838,True,1.0,1.0,367,18.6826,True,1.0,1.0,367,True,1.0,1.0,0,0,0,0
+368,what is the first step of AI process to create art?,368,368,19.4278,True,1.0,1.0,368,19.3496,True,1.0,1.0,368,True,1.0,1.0,0,0,0,0
+369,how many villains were killed by captain America?,369,369,17.0525,True,1.0,1.0,369,17.0234,True,1.0,1.0,369,True,1.0,1.0,0,0,0,0
+370,Where was Gymkhana 4 held?,370,370,13.8558,True,1.0,1.0,370,13.8616,True,1.0,1.0,370,True,1.0,1.0,0,0,0,0
+371,What is the total number of Twitter users in the U.S. in 2010?,371,371,24.4107,True,1.0,1.0,371,24.334,True,1.0,1.0,371,True,1.0,1.0,0,0,0,0
+372,When was the Sage Hill owner code implemented?,372,372,11.5208,True,1.0,1.0,372,11.401,True,1.0,1.0,372,True,1.0,1.0,0,0,0,0
+373,Which European country has the second-highest Covid-19 death rate in the world as per the given data?,373,373,26.2938,True,1.0,1.0,373,26.229,True,1.0,1.0,373,True,1.0,1.0,0,0,0,0
+374,What are the common symptoms of COVID-19?,374,491,19.4462,False,0.0,0.3333,491,19.415,False,0.0,0.3333,491,False,0.0,0.3333,0,0,0,0
+375,What is the fatality rate due to Covid-19 in North Carolina as of 07/29/2020?,375,375,27.0118,True,1.0,1.0,375,26.9666,True,1.0,1.0,375,True,1.0,1.0,0,0,0,0
+376,Which is the only top Global brand which uses green as its primary colour?,376,376,16.5252,True,1.0,1.0,376,16.4902,True,1.0,1.0,376,True,1.0,1.0,0,0,0,0
+377,Are trains allowed in Red zone?,377,377,10.1049,True,1.0,1.0,377,9.948,True,1.0,1.0,377,True,1.0,1.0,0,0,0,0
+378,"How many people die each day due to cancer and Dementia, taken together?",378,378,19.172,True,1.0,1.0,378,18.7788,True,1.0,1.0,378,True,1.0,1.0,0,0,0,0
+379,What was the population of Indian migrant workers in Saudi Arabia in 2016?,379,379,23.5513,True,1.0,1.0,379,23.5376,True,1.0,1.0,379,True,1.0,1.0,0,0,0,0
+380,"What is the total number of deaths in Brazil and India, taken together?",380,380,20.4342,True,1.0,1.0,380,20.4387,True,1.0,1.0,380,True,1.0,1.0,0,0,0,0
+381,How many of the participants feel that the revenue projection of 2020 vs 2019 is better?,381,381,26.3737,True,1.0,1.0,381,26.1333,True,1.0,1.0,381,True,1.0,1.0,0,0,0,0
+382,Which country was the second most strict during Covid-19 Lockdown?,382,382,20.4034,True,1.0,1.0,382,20.3242,True,1.0,1.0,382,True,1.0,1.0,0,0,0,0
+383,What was the mortality rate of the COVID-19 patients based on the analysis?,383,383,20.4737,True,1.0,1.0,383,20.4028,True,1.0,1.0,383,True,1.0,1.0,0,0,0,0
+384,Where did the first case of the coronavirus disease originate?,384,478,18.4439,False,0.0,0.3155,478,18.4414,False,0.0,0.301,478,False,0.0,0.3155,0,0,0,0
+385,Where was the first case of COVID-19 reported?,385,478,18.8581,False,0.4307,0.4307,478,18.8579,False,0.4307,0.4307,478,False,0.4307,0.4307,0,0,0,0
+386,How many deaths happened due to coronavirus in China as on Jan 22?,386,386,21.5577,True,1.0,1.0,386,21.4624,True,1.0,1.0,386,True,1.0,1.0,0,0,0,0
+387,"Out of the 22 Covid-19 deaths, how many are male?",387,387,19.9059,True,1.0,1.0,387,19.8335,True,1.0,1.0,387,True,1.0,1.0,0,0,0,0
+388,Which country has reported the highest number of COVID-19 cases as of February 17?,388,388,22.63,True,1.0,1.0,388,22.7119,True,1.0,1.0,388,True,1.0,1.0,0,0,0,0
+389,"What is the number of Covid-19 deaths per 1 million population in Alaska as on June 18, 2020?",389,389,26.6738,True,1.0,1.0,389,26.9819,True,1.0,1.0,389,True,1.0,1.0,0,0,0,0
+390,"What is the percentage of African American deaths in Chicago and NYC, taken together due to covid-19?",390,390,21.4741,True,1.0,1.0,390,21.5591,True,1.0,1.0,390,True,1.0,1.0,0,0,0,0
+391,How many states have above 30% positive tests?,391,391,19.9806,True,1.0,1.0,391,19.9663,True,1.0,1.0,391,True,1.0,1.0,0,0,0,0
+392,What percent of the patients have been discharged?,392,392,14.917,True,1.0,1.0,392,14.9058,True,1.0,1.0,392,True,1.0,1.0,0,0,0,0
+393,What is the first step in washing your hands?,393,393,17.1377,True,1.0,1.0,393,17.1343,True,1.0,1.0,393,True,1.0,1.0,0,0,0,0
+394,How many apps have the second-highest average rating?,394,394,15.298,True,1.0,1.0,394,15.229,True,1.0,1.0,394,True,1.0,1.0,0,0,0,0
+395,Which is the first most popular marketing automation software solution?,395,395,17.8432,True,1.0,1.0,395,17.832,True,1.0,1.0,395,True,1.0,1.0,0,0,0,0
+396,What is the number of active cases?,396,396,14.3877,True,1.0,1.0,396,14.2671,True,1.0,1.0,396,True,1.0,1.0,0,0,0,0
+397,How many women experts mentioned in this infographic?,397,87,13.9419,False,0.6309,0.6309,87,13.9382,False,0.6309,0.6309,87,False,0.6309,0.6309,0,0,0,0
+398,What is the number of cattle in the world?,398,398,16.7872,True,1.0,1.0,398,16.7593,True,1.0,1.0,398,True,1.0,1.0,0,0,0,0
+399,Which language has the second-highest number of native speakers?,399,399,18.4622,True,1.0,1.0,399,18.4727,True,1.0,1.0,399,True,1.0,1.0,0,0,0,0
+400,What percentage of FedEx packages arrived on-time in April 2020 amid the COVID-19?,400,400,25.4779,True,1.0,1.0,400,25.6284,True,1.0,1.0,400,True,1.0,1.0,0,0,0,0
+401,"Which has the highest share in the balanced diet composition-sugar, cereals?",401,401,17.5177,True,1.0,1.0,401,17.3743,True,1.0,1.0,401,True,1.0,1.0,0,0,0,0
+402,What percentage of Canadian women reported symptoms of moderate to severe anxiety during the COVID-19 pandemic as per the survey?,402,402,29.1387,True,1.0,1.0,402,29.1099,True,1.0,1.0,402,True,1.0,1.0,0,0,0,0
+403,How many symptoms of coronavirus mentioned in this infographic?,403,258,18.2952,False,0.0,0.3333,258,18.2729,False,0.0,0.3333,258,False,0.0,0.3333,0,0,0,0
+404,How many symptoms of coronavirus mentioned in this infographic?,404,258,18.2952,False,0.5,0.5,258,18.2729,False,0.5,0.5,258,False,0.5,0.5,0,0,0,0
+405,what is the color of the main title - white or purple?,405,137,20.6933,False,0.4307,0.4307,137,20.667,False,0.5,0.5,137,False,0.4307,0.4307,0,0,0,0
+406,What is the number of ICU beds?,406,278,16.0481,False,0.4307,0.4307,278,15.8892,False,0.4307,0.4307,278,False,0.4307,0.4307,0,0,0,0
+407,How many guidelines are given for taking care of your mental health when abroad?,407,407,20.6663,True,1.0,1.0,407,20.6465,True,1.0,1.0,407,True,1.0,1.0,0,0,0,0
+408,How many have authored this document?,408,408,11.3238,True,1.0,1.0,408,11.0837,True,1.0,1.0,408,True,1.0,1.0,0,0,0,0
+409,How many provinces have been covered in the income support program?,409,409,16.0709,True,1.0,1.0,409,16.0972,True,1.0,1.0,409,True,1.0,1.0,0,0,0,0
+410,Which is element 67 on the periodic table?,410,410,13.959,True,1.0,1.0,410,13.9976,True,1.0,1.0,410,True,1.0,1.0,0,0,0,0
+411,What is the total percentage of people who would want to travel between 3 months to a year after COVID-19?,411,411,26.9239,True,1.0,1.0,411,26.8899,True,1.0,1.0,411,True,1.0,1.0,0,0,0,0
+412,Which number should be contacted for suicide prevention and crisis services?,412,412,16.9938,True,1.0,1.0,412,16.8022,True,1.0,1.0,412,True,1.0,1.0,0,0,0,0
+413,Which Pollutant fighting plant is best at removing benzene from air?,413,413,17.9865,True,1.0,1.0,413,17.9604,True,1.0,1.0,413,True,1.0,1.0,0,0,0,0
+414,How many things are to be done when there is a mental health issue during a pandemic?,414,414,23.7561,True,1.0,1.0,414,23.7275,True,1.0,1.0,414,True,1.0,1.0,0,0,0,0
+415,Which authority certifies restaurants for food safety and hygiene?,415,415,13.9935,True,1.0,1.0,415,13.8364,True,1.0,1.0,415,True,1.0,1.0,0,0,0,0
+416,"When was St Paul's COVID -19 test launched, Feb 13, Feb 14, or Feb 24?",416,416,26.5956,True,1.0,1.0,416,26.5437,True,1.0,1.0,416,True,1.0,1.0,0,0,0,0
+417,What is percentage of rebounding expected for Consumer electronic and Telecom during second half of 2020?,417,417,24.3364,True,1.0,1.0,417,24.373,True,1.0,1.0,417,True,1.0,1.0,0,0,0,0
+418,When was the vaccine for Pneumococcal conjugate polysaccharide introduced?,418,418,17.8044,True,1.0,1.0,418,17.626,True,1.0,1.0,418,True,1.0,1.0,0,0,0,0
+419,Which step denotes the quality assurance part of the test performed for COVID-19?,419,419,20.044,True,1.0,1.0,419,20.0151,True,1.0,1.0,419,True,1.0,1.0,0,0,0,0
+420,How many servings of milk is produced without antibiotics each day?,420,420,17.1827,True,1.0,1.0,420,17.2344,True,1.0,1.0,420,True,1.0,1.0,0,0,0,0
+421,"Which region in India experiences low water stress when compared to other regions , North East, South, North, or South West?",421,421,25.3146,True,1.0,1.0,421,25.1702,True,1.0,1.0,421,True,1.0,1.0,0,0,0,0
+422,Which social networking platform has the second highest demographic of people aged more than 65 years?,422,267,19.9758,False,0.0,0.0,267,20.2664,False,0.0,0.0,267,False,0.0,0.0,0,0,0,0
+423,By what amount did trade increase from 1996 to 2013 in trillion USD?,423,423,20.803,True,1.0,1.0,423,20.6929,True,1.0,1.0,423,True,1.0,1.0,0,0,0,0
+424,What is China's investment in automobile industry as per the bar graph?,424,424,17.5774,True,1.0,1.0,424,17.5906,True,1.0,1.0,424,True,1.0,1.0,0,0,0,0
+425,What is the value of Australia's imports?,425,425,16.3411,True,1.0,1.0,425,16.1855,True,1.0,1.0,425,True,1.0,1.0,0,0,0,0
+426,What percentage of diners it extremely important to stay away from crowds and to get a vaccine?,426,426,22.767,True,1.0,1.0,426,22.7681,True,1.0,1.0,426,True,1.0,1.0,0,0,0,0
+427,What number of immigrants in Ontario are not women?,427,427,16.0491,True,1.0,1.0,427,16.0117,True,1.0,1.0,427,True,1.0,1.0,0,0,0,0
+428,How many women skiers mentioned in this infographic?,428,428,15.9693,True,1.0,1.0,428,15.9341,True,1.0,1.0,428,True,1.0,1.0,0,0,0,0
+429,What percentage of workers are not working from home?,429,429,17.9325,True,1.0,1.0,429,17.8896,True,1.0,1.0,429,True,1.0,1.0,0,0,0,0
+430,Which state has the highest number of passport issued for every thousand citizens?,430,430,20.581,True,1.0,1.0,430,20.5879,True,1.0,1.0,430,True,1.0,1.0,0,0,0,0
+431,What is the percentage of people above 35 years willing to cut travel costs?,431,431,18.6297,True,1.0,1.0,431,18.6733,True,1.0,1.0,431,True,1.0,1.0,0,0,0,0
+432,Which animals were used in barter system during ancient times before money?,432,432,17.7897,True,1.0,1.0,432,17.7422,True,1.0,1.0,432,True,1.0,1.0,0,0,0,0
+433,What was total number of people who did not work and worked lesser hours than their usual timing in the week March 15 to 21?,433,433,30.6461,True,1.0,1.0,433,30.6509,True,1.0,1.0,433,True,1.0,1.0,0,0,0,0
+434,How many tons of fresh produce could be filled up in 695 cargo containers?,434,434,21.9118,True,1.0,1.0,434,21.8184,True,1.0,1.0,434,True,1.0,1.0,0,0,0,0
+435,What percent of parents never or rarely discuss savings or importance of money?,435,435,16.6483,True,1.0,1.0,435,16.5571,True,1.0,1.0,435,True,1.0,1.0,0,0,0,0
+436,How many tons of gold was produced globally in 2014?,436,436,20.863,True,1.0,1.0,436,20.8599,True,1.0,1.0,436,True,1.0,1.0,0,0,0,0
+437,"What is the yearly cost for renovations and maintenance, taken together?",437,298,13.7555,False,0.0,0.0,298,13.7432,False,0.0,0.0,298,False,0.0,0.0,0,0,0,0
+438,"How many points under the heading ""Saving Money Plan and Responsibility""?",438,438,18.9773,True,1.0,1.0,438,18.9084,True,1.0,1.0,438,True,1.0,1.0,0,0,0,0
+439,What is the revenue earned per click on a Facebook ad when viewed on a mobile?,439,439,17.4677,True,1.0,1.0,439,17.4429,True,1.0,1.0,439,True,1.0,1.0,0,0,0,0
+440,How many personalities mentioned in this infographic?,440,440,13.9519,True,1.0,1.0,440,13.9102,True,1.0,1.0,440,True,1.0,1.0,0,0,0,0
+441,What percentage of people didn't pay using a debit card?,441,441,17.1371,True,1.0,1.0,441,17.1367,True,1.0,1.0,441,True,1.0,1.0,0,0,0,0
+442,How many points are shown as the inadequacies of the safety nets?,442,442,14.3639,True,1.0,1.0,442,14.239,True,1.0,1.0,442,True,1.0,1.0,0,0,0,0
+443,How many vehicles are in this infographic?,443,409,12.2985,False,0.0,0.0,409,12.271,False,0.0,0.0,409,False,0.0,0.0,0,0,0,0
+444,How many types of generated wastes mentioned in this infographic?,444,444,15.0621,True,1.0,1.0,444,14.9297,True,1.0,1.0,444,True,1.0,1.0,0,0,0,0
+445,"What percentage of adults are using a mobile phone for money transactions in Kenya and Sudan, taken together?",445,445,21.2168,True,1.0,1.0,445,21.2009,True,1.0,1.0,445,True,1.0,1.0,0,0,0,0
+446,How many illegal money habits are mentioned here?,446,446,17.0549,True,1.0,1.0,446,16.9795,True,1.0,1.0,446,True,1.0,1.0,0,0,0,0
+447,What is the difference between the number of economies in 2012 and 2005?,447,447,19.4611,True,1.0,1.0,447,19.3462,True,1.0,1.0,447,True,1.0,1.0,0,0,0,0
+448,How many banks have assets of $ 2188 billion?,448,448,18.7302,True,1.0,1.0,448,18.8745,True,1.0,1.0,448,True,1.0,1.0,0,0,0,0
+449,How many old banks mentioned in this infographic?,449,449,15.3138,True,1.0,1.0,449,15.311,True,1.0,1.0,449,True,1.0,1.0,0,0,0,0
+450,When was the total teller system introduced in the U.S.?,450,450,17.3239,True,1.0,1.0,450,17.25,True,1.0,1.0,450,True,1.0,1.0,0,0,0,0
+451,How many metrics mentioned in this infographic?,451,105,13.181,False,0.0,0.0,105,13.1602,False,0.0,0.0,105,False,0.0,0.0,0,0,0,0
+452,"In the map, how many countries show most positive attitude towards mobile payments?",452,452,21.3265,True,1.0,1.0,452,21.3057,True,1.0,1.0,452,True,1.0,1.0,0,0,0,0
+453,How many students in Myanmar will receive stipends to attend the school as a part of the World Bank Group's Country Partnership Framework 2015-2017?,453,453,35.1088,True,1.0,1.0,453,34.7954,True,1.0,1.0,453,True,1.0,1.0,0,0,0,0
+454,In which year was the performance of the US 10-year Treasury the worst?,454,454,12.7702,True,1.0,1.0,454,12.7905,True,1.0,1.0,454,True,1.0,1.0,0,0,0,0
+455,What percentage of banks increased their investment in innovation from 2011 to 2012?,455,455,23.0775,True,1.0,1.0,455,23.0664,True,1.0,1.0,455,True,1.0,1.0,0,0,0,0
+456,On what necessity is a major portion of the <$1.25 earnings spent?,456,88,13.0533,False,0.0,0.0,291,12.9711,False,0.0,0.0,88,False,0.0,0.0,0,0,0,0
+457,What is the average monthly fee to a gym?,457,457,12.6338,True,1.0,1.0,457,12.6006,True,1.0,1.0,457,True,1.0,1.0,0,0,0,0
+458,What does PPAF stand for?,458,94,10.0658,False,0.0,0.0,94,9.9521,False,0.0,0.0,94,False,0.0,0.0,0,0,0,0
+459,how many major companies are there in the wireless broadband market?,459,228,11.4316,False,0.0,0.0,450,11.0991,False,0.0,0.0,228,False,0.0,0.0,0,0,0,0
+460,What percentage of Metro New York small business owners provide employees with health/wellness benefits according to the survey?,460,460,22.9602,True,1.0,1.0,460,22.9534,True,1.0,1.0,460,True,1.0,1.0,0,0,0,0
+461,When was the pound decimalised in Britain?,461,461,15.1958,True,1.0,1.0,461,15.2046,True,1.0,1.0,461,True,1.0,1.0,0,0,0,0
+462,How many million people could have access to safe water through the construction of boreholes by the US$1.85 billion finance in Sub-Saharan Africa?,462,462,30.4307,True,1.0,1.0,462,30.2891,True,1.0,1.0,462,True,1.0,1.0,0,0,0,0
+463,What percentage of megabank customers sometimes feel guilty for banking with a big bank according to the survey?,463,463,24.1636,True,1.0,1.0,463,23.8687,True,1.0,1.0,463,True,1.0,1.0,0,0,0,0
+464,"How many disasters can occur due to the construction of more buildings, cities?",464,464,19.4927,True,1.0,1.0,464,19.4912,True,1.0,1.0,464,True,1.0,1.0,0,0,0,0
+465,How many people died in the Thailand flood in 2011?,465,465,17.8336,True,1.0,1.0,465,17.8193,True,1.0,1.0,465,True,1.0,1.0,0,0,0,0
+466,How many factors influencing people's decisions on methods to make international payments are mentioned here?,466,466,23.7749,True,1.0,1.0,466,23.688,True,1.0,1.0,466,True,1.0,1.0,0,0,0,0
+467,"What was the % increase, in passing rates for senior secondary exams in English, math and biology?",467,68,18.9852,False,0.3869,0.3869,68,19.043,False,0.0,0.3562,68,False,0.3869,0.3869,0,0,0,0
+468,What is the annual cost of wasting food in households with children(£)?,468,84,15.8039,False,0.6309,0.6309,84,15.7979,False,0.6309,0.6309,84,False,0.6309,0.6309,0,0,0,0
+469,In which year did CBS acquire broadcast rights to cover the Games?,469,356,13.1736,False,0.0,0.3155,356,13.1287,False,0.0,0.3155,356,False,0.0,0.3155,0,0,0,0
+470,"What is the combined percentage of zinc and copper, taken together?",470,309,11.8722,False,0.0,0.0,410,11.9197,False,0.0,0.0,309,False,0.0,0.0,0,0,0,0
+471,How many benefits of investing in real estate mentioned in this infographic?,471,471,20.4863,True,1.0,1.0,471,20.4653,True,1.0,1.0,471,True,1.0,1.0,0,0,0,0
+472,How many sources are listed?,472,437,13.2658,False,0.0,0.0,437,13.2515,False,0.0,0.0,437,False,0.0,0.0,0,0,0,0
+473,Which parameter is represented by the icon of a hand with heart symbol?,473,414,17.1238,False,0.0,0.0,414,17.1128,False,0.0,0.0,414,False,0.0,0.0,0,0,0,0
+474,"What is color that denotes countries that have decided to postpone elections, blue, yellow, or grey/ gray?",474,474,24.4348,True,1.0,1.0,474,24.3491,True,1.0,1.0,474,True,1.0,1.0,0,0,0,0
+475,Which ingredient used in Gingerbread Sacrifice is equal to sum of the ingredients vodka and orange liqueur?,475,475,20.0016,True,1.0,1.0,475,20.0037,True,1.0,1.0,475,True,1.0,1.0,0,0,0,0
+476,"According to Sally Krawcheck, what is required for women to be fully equal with men; gender equality or financial equality?",476,126,18.7556,False,0.4307,0.4307,126,18.6592,False,0.5,0.5,126,False,0.4307,0.4307,0,0,0,0
+477,Which liquid or fluid that must reduced should not be had to hydrate your body?,477,477,18.5904,True,1.0,1.0,477,18.521,True,1.0,1.0,477,True,1.0,1.0,0,0,0,0
+478,Which symptoms was mostly seen in all COVID-19 patients?,478,383,17.8791,False,0.0,0.3562,383,17.8335,False,0.0,0.3562,383,False,0.0,0.3562,0,0,0,0
+479,What percentage of Gen Zers are considering community college after high school graduation?,479,479,17.703,True,1.0,1.0,479,17.7825,True,1.0,1.0,479,True,1.0,1.0,0,0,0,0
+480,How many communities is the CDC working with in order to tackle Corona?,480,480,17.6536,True,1.0,1.0,480,17.604,True,1.0,1.0,480,True,1.0,1.0,0,0,0,0
+481,What is the number of facebook accounts in 2012?,481,481,19.7627,True,1.0,1.0,481,19.7559,True,1.0,1.0,481,True,1.0,1.0,0,0,0,0
+482,Which activity is expected to see the maximum decrease ?,482,417,11.8602,False,0.5,0.5,417,11.7904,False,0.6309,0.6309,417,False,0.5,0.5,0,0,0,0
+483,Which country has hosted the Olympic events three times?,483,488,16.53,False,0.0,0.3562,488,16.4819,False,0.3869,0.3869,488,False,0.0,0.3562,0,0,0,0
+484,When did London first host the Olympics?,484,484,16.8519,True,1.0,1.0,484,16.8535,True,1.0,1.0,484,True,1.0,1.0,0,0,0,0
+485,The photos of how many swimmers are shown in this infographic?,485,488,15.9821,False,0.0,0.3562,488,15.8687,False,0.3869,0.3869,488,False,0.0,0.3562,0,0,0,0
+486,What is the weight of Olympic basketball?,486,486,14.3741,True,1.0,1.0,486,14.3301,True,1.0,1.0,486,True,1.0,1.0,0,0,0,0
+487,How many opinions on climate change was given by British Eco Ltd?,487,487,16.8611,True,1.0,1.0,487,16.939,True,1.0,1.0,487,True,1.0,1.0,0,0,0,0
+488,How many rings in the Olympic emblem?,488,498,14.2252,False,0.0,0.3562,498,14.1318,False,0.3869,0.3869,498,False,0.0,0.3562,0,0,0,0
+489,What is the number of sporting events in Rio2016?,489,489,21.5424,True,1.0,1.0,489,21.5488,True,1.0,1.0,489,True,1.0,1.0,0,0,0,0
+490,What is the total percentage of increase in calls in Cyprus and Singapore?,490,490,15.4816,True,1.0,1.0,490,15.6641,True,1.0,1.0,490,True,1.0,1.0,0,0,0,0
+491,Which are the symptoms that are common to flu and COVID-19?,491,491,21.8384,True,1.0,1.0,491,21.8003,True,1.0,1.0,491,True,1.0,1.0,0,0,0,0
+492,"Which government COVID pandemic response has been recorded, Italy, China, or Vietnam?",492,492,18.6292,True,1.0,1.0,492,18.6382,True,1.0,1.0,492,True,1.0,1.0,0,0,0,0
+493,When was Boxing introduced in the Olympic Games?,493,493,16.6321,True,1.0,1.0,493,16.5928,True,1.0,1.0,493,True,1.0,1.0,0,0,0,0
+494,How many tickets were sold for the 2008 Beijing Olympic Games?,494,494,20.4878,True,1.0,1.0,494,20.4023,True,1.0,1.0,494,True,1.0,1.0,0,0,0,0
+495,"Which iconic monument appears on the image below the medals, Eiffel Tower, CN Tower, or Calgary Tower?",495,495,20.0753,True,1.0,1.0,495,20.2456,True,1.0,1.0,495,True,1.0,1.0,0,0,0,0
+496,What was the population of Sochi in 2014?,496,496,18.3389,True,1.0,1.0,496,18.4551,True,1.0,1.0,496,True,1.0,1.0,0,0,0,0
+497,"What does the first image represent, physical distancing, hand wash, or mask?",497,497,21.3229,True,1.0,1.0,497,21.3008,True,1.0,1.0,497,True,1.0,1.0,0,0,0,0
+498,"What is the current value of Bronze and Silver, taken together?",498,498,15.8621,True,1.0,1.0,498,15.7656,True,1.0,1.0,498,True,1.0,1.0,0,0,0,0
+499,What is the cost of hosting an Olympics in Barcelona?,499,495,14.5707,False,0.0,0.0,495,14.4309,False,0.0,0.0,495,False,0.0,0.0,0,0,0,0

@@ -1,0 +1,38 @@
+{
+  "timestamp": "20260610_214022",
+  "dataset": "vidore/tabfquad_test_subsampled",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 280,
+  "img_emb_time_s": 0.013,
+  "naive": {
+    "recall@1": 0.8071,
+    "ndcg@5": 0.8614,
+    "ndcg@10": 0.877,
+    "search_time_s": 0.071,
+    "total_time_s": 0.085
+  },
+  "fast_plaid": {
+    "recall@1": 0.8071,
+    "ndcg@5": 0.8608,
+    "ndcg@10": 0.8768,
+    "index_build_time_s": 2.75,
+    "search_time_s": 3.637,
+    "total_time_s": 6.401
+  },
+  "our_method": {
+    "recall@1": 0.8071,
+    "ndcg@5": 0.8614,
+    "ndcg@10": 0.877,
+    "search_time_s": 8.871,
+    "pruning_rate": 0.0,
+    "total_time_s": 8.884,
+    "avg_ubound_range": [
+      0.0,
+      0.0
+    ],
+    "avg_score_range": [
+      0.0,
+      0.0
+    ]
+  }
+}

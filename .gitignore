@@ -1,17 +1,30 @@
-# cache & results
-cache/
-results/
-index/
-
-# large binary files
-*.pkl
-
-# Python
+# ── Python ────────────────────────────────
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.ipynb_checkpoints/
 
-# misc
-*.png
-samples.png
+# ── Large binaries / generated artifacts ──
+*.pkl
+*.npz
+
+# Embedding cache & PLAID index (regenerated at runtime)
+cache/
+index/
+
+# Cluster indices built by code/indexing/*
+code/indexing/cluster_index_output*/
+cluster_index_output*/
+
+# Local runtime output (a curated snapshot lives in result/)
+code/results/
+
+# ── Local-only scratch (root-level only) ──
+/archive/
+/indexing/
+/notebooks/
+*.log
+
+# ── OS ────────────────────────────────────
+.DS_Store

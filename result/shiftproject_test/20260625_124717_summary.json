@@ -1,0 +1,70 @@
+{
+  "timestamp": "20260625_124717",
+  "dataset": "vidore/shiftproject_test",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 100,
+  "img_emb_time_s": 0.176,
+  "naive": {
+    "recall@1": 0.62,
+    "ndcg@5": 0.7538,
+    "ndcg@10": 0.7799,
+    "search_time_s": 0.141,
+    "total_time_s": 0.317
+  },
+  "fast_plaid": {
+    "recall@1": 0.63,
+    "ndcg@5": 0.7592,
+    "ndcg@10": 0.7853,
+    "index_build_time_s": 7.866,
+    "search_time_s": 9.859,
+    "total_time_s": 17.901
+  },
+  "global_centroid": {
+    "recall@1": 0.62,
+    "ndcg@5": 0.7538,
+    "ndcg@10": 0.7799,
+    "search_time_s": 47.044,
+    "pruning_rate": 0.0,
+    "total_time_s": 47.22,
+    "avg_ubound_range": [
+      31.0855,
+      42.8844
+    ],
+    "avg_score_range": [
+      7.0243,
+      22.4088
+    ]
+  },
+  "block_centroid": {
+    "recall@1": 0.62,
+    "ndcg@5": 0.7538,
+    "ndcg@10": 0.7799,
+    "search_time_s": 46.968,
+    "pruning_rate": 0.0,
+    "total_time_s": 47.144,
+    "avg_ubound_range": [
+      31.819,
+      43.966
+    ],
+    "avg_score_range": [
+      7.0243,
+      22.4088
+    ]
+  },
+  "box_bound": {
+    "recall@1": 0.62,
+    "ndcg@5": 0.7538,
+    "ndcg@10": 0.7799,
+    "search_time_s": 46.366,
+    "pruning_rate": 0.0,
+    "total_time_s": 46.542,
+    "avg_ubound_range": [
+      34.9663,
+      69.3476
+    ],
+    "avg_score_range": [
+      7.0243,
+      22.4088
+    ]
+  }
+}

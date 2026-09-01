@@ -1,0 +1,101 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,What are some challenges faced by health companies in implementing enterprise risk management?,0,0,18.7839,True,1.0,1.0,0,18.5432,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+1,What is the chemical formula for the ferroelectric material Lead Zirconium Titanate (PZT)?,1,1,23.7436,True,1.0,1.0,1,23.6975,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,What was the development process of the Maine eConsult Network?,2,2,18.5555,True,1.0,1.0,2,18.4932,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+3,How does parental poverty affect child development according to the text?,3,3,18.0057,True,1.0,1.0,3,17.9185,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+4,What government entities are involved in public financing for healthcare in the US?,4,4,20.1912,True,1.0,1.0,4,20.1035,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+5,Who was the founder of modern nursing and what changes did she bring?,5,5,19.9979,True,1.0,1.0,5,19.7998,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+6,What were the results of the Skolnick 2014 study regarding progesterone treatment for severe traumatic brain injury?,6,295,21.2205,False,0.0,0.3562,295,21.2405,False,0.0,0.3562,295,False,0.0,0.3562,0,0,0,0
+7,What is the purpose of the Maine eConsult Network (MEeCN)?,2,2,22.5799,True,1.0,1.0,2,22.4946,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+8,What are the causes of hypoglycaemia beyond the immediate neonatal period?,7,7,19.457,True,1.0,1.0,7,19.501,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+9,What procedures should be followed during an evacuation at a school?,8,8,19.5601,True,1.0,1.0,8,19.5649,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+10,What are the indications for botulinum toxin injections in the treatment of TBI?,9,9,21.2556,True,1.0,1.0,9,21.2358,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+11,What are the cultural factors affecting current help seeking for this asylum seeker?,10,10,19.3094,True,1.0,1.0,10,19.0908,True,1.0,1.0,10,True,1.0,1.0,0,0,0,0
+12,What tips are provided for during the meal for someone with Alzheimer's disease?,11,11,17.4022,True,1.0,1.0,11,17.4504,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+13,What are some factors that contribute to stress in families with children who have disabilities?,12,12,19.2959,True,1.0,1.0,12,19.2266,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+14,What is the role of Harborview Medical Center (HMC) during a catastrophic incident in Washington State?,13,13,22.4578,True,1.0,1.0,13,22.5088,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+15,In what year were PZT solid solutions first discovered?,1,1,12.4921,True,1.0,1.0,1,12.6206,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+16,What is the concern regarding VA's long-term care capacity?,14,216,18.8241,False,0.5,0.5,216,18.8015,False,0.5,0.5,216,False,0.5,0.5,0,0,0,0
+17,What are some considerations for evacuating persons with disabilities?,8,8,17.8122,True,1.0,1.0,8,17.8623,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+18,What are the potential long-term health issues faced by COVID-19 survivors?,15,15,18.0388,True,1.0,1.0,15,18.0793,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+19,What does a siren indicate during a tornado warning?,16,16,17.8329,True,1.0,1.0,16,17.8413,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+20,What is the purpose of the CRASH-2 trial?,17,17,16.8055,True,1.0,1.0,17,16.7732,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+21,What standard should be used for the marking of devices brought into the MR environment?,18,18,19.2022,True,1.0,1.0,18,18.9341,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+22,What are the aims of surgery for correcting hypospadias?,19,19,17.0104,True,1.0,1.0,19,16.9062,True,1.0,1.0,19,True,1.0,1.0,0,0,0,0
+23,What was the purpose of the Assisted Living Pilot Program authorized by the Millennium Act?,20,20,20.9483,True,1.0,1.0,20,20.7495,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+24,What are some diagnostic clues to ineffective erythropoiesis in infants and children?,21,21,19.8564,True,1.0,1.0,21,19.8066,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+25,What is the recommended frequency and dosage of botulinum toxin injections for TBI treatment?,9,9,21.6176,True,1.0,1.0,9,21.5747,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+26,What are the guidelines to follow during a severe thunderstorm warning?,16,16,19.8951,True,1.0,1.0,16,19.8711,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+27,How does the article describe the importance of communication skills and relationship building in patient care?,22,22,17.5413,True,1.0,1.0,22,17.5659,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+28,When is water-soluble oral contrast media preferred over barium contrast media?,23,23,18.7866,True,1.0,1.0,23,18.7632,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+29,What types of dysrhythmias are listed under ICD-9 codes within Dx CCS 106?,24,24,22.1178,True,1.0,1.0,24,21.9839,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+30,What is mentioned about meiotic non-disjunction in relation to Down syndrome?,25,25,20.5163,True,1.0,1.0,25,20.3662,True,1.0,1.0,25,True,1.0,1.0,0,0,0,0
+31,What are the key staff positions and their order of succession listed in the image?,26,26,18.5321,True,1.0,1.0,26,18.4844,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+32,How does the cost of care change as patients develop chronic conditions?,27,27,20.5077,True,1.0,1.0,27,20.4707,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+33,What percentage of caregivers of people with Alzheimer's or other dementias went from full-time to part-time or cut back hours?,28,28,27.3968,True,1.0,1.0,28,27.3586,True,1.0,1.0,28,True,1.0,1.0,0,0,0,0
+34,What is the importance of logging and identifying anomalistic changes in data?,29,29,17.7326,True,1.0,1.0,29,17.6187,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+35,What services does HealthTeamWorks provide?,30,30,15.3843,True,1.0,1.0,30,15.3477,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+36,What challenges do Eastern Oregon communities face in delivering SUD services and what solutions were identified?,31,31,22.0049,True,1.0,1.0,31,21.9731,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+37,What does the AVPU scale stand for in assessing the level of consciousness of a seriously ill child?,32,32,23.1269,True,1.0,1.0,32,22.5786,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+38,What are the guidelines for patient referrals for MRI scans?,33,33,18.045,True,1.0,1.0,33,17.9805,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+39,What should a certificate you request describe regarding your prior health insurance coverage?,34,34,19.2746,True,1.0,1.0,34,19.2241,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+40,What are the eligibility criteria and benefits under the federal VA system for veterans?,35,35,20.6209,True,1.0,1.0,35,20.6157,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+41,What are the effects of cerebrolysin on neurological outcomes and cerebral blood flow in acute ischemic stroke?,17,17,21.5086,True,1.0,1.0,17,21.4194,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+42,What are the guidelines for advancing enteral feedings according to ASPEN?,36,36,19.8917,True,1.0,1.0,36,19.8052,True,1.0,1.0,36,True,1.0,1.0,0,0,0,0
+43,What services does AMVETS provide to veterans?,14,14,16.5262,True,1.0,1.0,14,16.5063,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+44,What were the three major influences on the development of modern nursing?,5,5,20.2431,True,1.0,1.0,5,20.1626,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+45,What is the primary goal of HealthTeamWorks?,30,30,16.93,True,1.0,1.0,30,16.8765,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+46,What are the guidelines for pregnancy and MR imaging?,33,33,17.0907,True,1.0,1.0,33,17.0249,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+47,What is the Curie temperature range for PZT?,1,1,17.5996,True,1.0,1.0,1,17.5024,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+48,What precautions are typically taken when providing care or services for a patient living with HIV?,37,37,23.5514,True,1.0,1.0,37,23.5054,True,1.0,1.0,37,True,1.0,1.0,0,0,0,0
+49,What is assisted living designed for?,38,38,15.3497,True,1.0,1.0,38,15.3105,True,1.0,1.0,38,True,1.0,1.0,0,0,0,0
+50,What types of things are people with Parkinson's disease and their care partners consumers of?,39,39,19.4895,True,1.0,1.0,39,19.3687,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+51,What report discusses the impact of the COVID-19 pandemic on health insurance losses in the United States?,40,40,20.881,True,1.0,1.0,40,20.8057,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+52,What types of fees are typically required for private health insurance plans?,41,41,17.0244,True,1.0,1.0,41,16.998,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+53,What are the different severity levels of traumatic brain injury?,42,42,18.6833,True,1.0,1.0,42,18.6831,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+54,What are the priority areas mentioned for achieving health equity according to the text?,43,43,20.8091,True,1.0,1.0,43,20.7812,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+55,What was the average age of veterans enrolled in the PACE pilot program in its first year of operation?,44,44,24.5893,True,1.0,1.0,44,24.4565,True,1.0,1.0,44,True,1.0,1.0,0,0,0,0
+56,What components are included in the ideal future state of dementia care?,45,45,18.1557,True,1.0,1.0,45,18.0166,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+57,What practical considerations should be taken into account when choosing a sampling method?,46,46,20.4847,True,1.0,1.0,46,20.4578,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+58,What are the different types of magnetic fields that individuals can be exposed to during MRI diagnostic imaging and spectroscopy?,18,18,25.6571,True,1.0,1.0,18,25.5808,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+59,What are the potential benefits of using the Sports Concussion Assessment Tool in combination with neuroimaging and neurophysiology techniques?,47,47,24.5921,True,1.0,1.0,47,24.5496,True,1.0,1.0,47,True,1.0,1.0,0,0,0,0
+60,How can a Parkinson's disease support group raise public awareness in the broader community?,39,39,20.5283,True,1.0,1.0,39,20.4316,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+61,What percentage of dementia caregivers are women?,48,48,16.1222,True,1.0,1.0,48,16.0898,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+62,What are the daily value percentages of some of the nutrients found in milk?,49,49,22.3064,True,1.0,1.0,49,22.3218,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+63,What are some characteristics of the population that need to be considered when selecting a sampling method?,46,46,24.0626,True,1.0,1.0,46,24.0364,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+64,What kind of certificate can you request regarding your health insurance coverage?,34,34,19.2366,True,1.0,1.0,34,19.2104,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+65,What is the order of succession at this Medical Center?,26,26,16.5204,True,1.0,1.0,26,16.4463,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+66,"What guidance does the UK Centre for Radiation, Chemical and Environmental Hazards publish regarding exposure to magnetic fields?",18,18,24.5772,True,1.0,1.0,18,24.4771,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+67,What tips are provided for the mealtime environment and routine for someone with Alzheimer's disease?,11,11,19.5026,True,1.0,1.0,11,19.5063,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+68,What should be done if the cause of hypoglycaemia is unknown?,7,7,19.4609,True,1.0,1.0,7,19.3945,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+69,What is the typical range of the piezoelectric coupling constant K^2 for most materials?,50,50,21.012,True,1.0,1.0,50,20.8684,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+70,What efforts has the VA undertaken to modernize and improve the VHA Long-Term Care Model?,51,51,23.2921,True,1.0,1.0,51,23.2646,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+71,What are some examples of private financing sources for healthcare in the US?,4,4,17.9378,True,1.0,1.0,4,17.845,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+72,What actions should be taken indoors during an earthquake?,16,16,17.1683,True,1.0,1.0,16,16.9336,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+73,What is the cost of staying at the Oregon Veterans' Home for eligible veterans and their spouses?,35,35,21.8661,True,1.0,1.0,35,21.8408,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+74,What are the final outcomes of the emergency department discharge process?,52,670,18.1624,False,0.5,0.5,670,18.1226,False,0.5,0.5,670,False,0.5,0.5,0,0,0,0
+75,What are the causes of chronic liver disease in children?,53,53,17.7432,True,1.0,1.0,53,17.7534,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+76,What are the steps involved in the emergency department discharge process?,52,326,18.2584,False,0.6309,0.6309,326,18.2212,False,0.6309,0.6309,326,False,0.6309,0.6309,0,0,0,0
+77,What is the Veterans Millennium Health Care and Benefits Act?,14,14,16.5178,True,1.0,1.0,14,16.4585,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+78,What were the key findings regarding cognitive decrement and psychopathology in patients with mild TBI?,54,54,21.3175,True,1.0,1.0,54,21.2627,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+79,How does the nurse promote an environment for patients?,55,55,13.6318,True,1.0,1.0,55,13.6494,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+80,What are some causes of traumatic brain injury?,42,42,16.7112,True,1.0,1.0,42,16.7092,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+81,What is the purpose of Endobrachial ultrasound (EBUS)?,56,56,20.7239,True,1.0,1.0,56,20.2603,True,1.0,1.0,56,True,1.0,1.0,0,0,0,0
+82,What are the causes of congenital hypothyroidism?,7,864,17.2797,False,0.6309,0.6309,864,17.2729,False,0.6309,0.6309,864,False,0.6309,0.6309,0,0,0,0
+83,What are some suggestions provided for improving mammogram compliance among patients?,57,57,17.2073,True,1.0,1.0,57,17.0183,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+84,What are the characteristics of Wilson disease?,53,53,16.0191,True,1.0,1.0,53,16.0337,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+85,How is Wilson disease diagnosed and treated?,53,53,14.9828,True,1.0,1.0,53,14.998,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+86,What was the relationship between psychopathological symptoms and neuropsychological performance in patients with mild traumatic brain injury (TBI)?,54,54,26.4592,True,1.0,1.0,54,26.4165,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+87,What are the main components included in the BETTER toolkit for cancer prevention and screening?,58,58,19.1162,True,1.0,1.0,58,19.1333,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+88,What are some common clinical features of cystic fibrosis in children?,59,53,17.112,False,0.6309,0.6309,53,17.1182,False,0.6309,0.6309,53,False,0.6309,0.6309,0,0,0,0
+89,What tools are used to assess the health-related quality of life for ME/CFS patients?,15,15,21.66,True,1.0,1.0,15,21.6587,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+90,What are the steps involved in the rapid clinical assessment of a seriously ill child?,32,32,21.9187,True,1.0,1.0,32,21.8286,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+91,What types of privacy are discussed in the context of professional nursing and ethics?,60,60,20.2691,True,1.0,1.0,60,20.252,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+92,What major changes have impacted the way SUD services are delivered in Oregon?,31,31,20.9615,True,1.0,1.0,31,20.8022,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+93,What is the relative cost of care for a healthy individual compared to someone with a chronic illness?,27,27,23.0823,True,1.0,1.0,27,23.0823,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+94,What should you do if you don't receive a certificate of health insurance coverage or lose the one you had?,34,34,25.0021,True,1.0,1.0,34,24.8718,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+95,What were the key findings regarding the efficacy of phenytoin versus placebo in reducing early posttraumatic seizures?,61,61,23.5192,True,1.0,1.0,61,23.5059,True,1.0,1.0,61,True,1.0,1.0,0,0,0,0
+96,What are the characteristics present in the Early Alzheimer's Disease stage?,62,62,18.9469,True,1.0,1.0,62,18.981,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+97,How does the administration of landiolol compare to other treatments for attenuating hemodynamic responses during surgery?,63,63,22.6444,True,1.0,1.0,63,22.6628,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+98,What types of contrast media are used for conventional fluoroscopic examinations?,23,23,19.2976,True,1.0,1.0,23,19.2358,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+99,What should one look for when visiting a nursing facility?,64,64,16.3094,True,1.0,1.0,64,16.2876,True,1.0,1.0,64,True,1.0,1.0,0,0,0,0

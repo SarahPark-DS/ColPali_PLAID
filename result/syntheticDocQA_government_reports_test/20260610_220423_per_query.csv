@@ -1,0 +1,101 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,What types of revenue should MMS account for as a custodial activity?,0,0,17.7939,True,1.0,1.0,0,17.729,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+1,What type of configuration standards should be implemented for firewalls and routers?,1,1,17.4458,True,1.0,1.0,1,17.2593,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,What reconciliations and checks should the Financial Controller perform each month?,2,2,18.5287,True,1.0,1.0,2,18.3289,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+3,How have communities adapted their recycling programs?,3,3,12.8525,True,1.0,1.0,3,12.7742,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+4,What is the process for initial withdrawal of funds from IFAD for a designated account?,4,4,20.5774,True,1.0,1.0,4,20.5845,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+5,What are the roles of the Compliance Committee for Southern Tier Connect?,5,5,19.0315,True,1.0,1.0,5,18.9473,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+6,What are some of the stakeholder groups represented on the NEJAC Work Group?,6,6,21.8248,True,1.0,1.0,6,21.75,True,1.0,1.0,6,True,1.0,1.0,0,0,0,0
+7,How long does it take for an organization to detect a security event?,7,7,19.9927,True,1.0,1.0,7,19.9644,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+8,What criteria are used for identifying and exiting students from language assistance programs in grades 1-12?,8,8,24.0424,True,1.0,1.0,8,23.9722,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+9,What are some potential benefits of advanced and integrated GIS usage mentioned in the passage?,9,9,20.9138,True,1.0,1.0,9,20.9336,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+10,What is the process for publishing an Air Force document?,10,876,13.9165,False,0.3869,0.3869,876,13.8589,False,0.3869,0.3869,876,False,0.3869,0.3869,0,0,0,0
+11,What does the NAIRR Task Force recommend to advance AI methods and technologies?,11,11,20.5859,True,1.0,1.0,11,20.6167,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+12,What is the purpose of the AUDITTAPE routine?,12,12,17.4136,True,1.0,1.0,12,17.4082,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+13,What should the FCC account for the revenue from auctioning the radio spectrum as?,0,0,20.8832,True,1.0,1.0,0,20.7134,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+14,What actions did the government of Honduras take in response to the COVID-19 outbreak related to freedom of expression?,13,13,26.5032,True,1.0,1.0,13,26.4312,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+15,What is the purpose of an employee signing the performance plan according to the HHS PMAP Handbook?,14,14,23.03,True,1.0,1.0,14,22.9954,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+16,What are the responsibilities of the NAIRR Program Management Office?,15,15,18.5287,True,1.0,1.0,15,18.5415,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+17,What is the key difference between ISO 19115-1 and ISO 19115-2?,16,16,25.1493,True,1.0,1.0,16,25.0725,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+18,What are some policy and pricing considerations for storing electronic copyright deposits?,17,17,18.6727,True,1.0,1.0,17,18.4097,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+19,How is metropolitan competitiveness defined in the context of income growth?,18,18,16.1748,True,1.0,1.0,18,16.2549,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+20,What are the capitals referred to in the <IR> Framework?,19,19,18.4797,True,1.0,1.0,19,18.3682,True,1.0,1.0,19,True,1.0,1.0,0,0,0,0
+21,What format should be used to present the audit findings to CMS?,20,20,19.4411,True,1.0,1.0,20,19.3013,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+22,What should be done if SSL/early TLS is used according to the instructions?,21,519,19.6561,False,0.5,0.5,519,19.6804,False,0.5,0.5,519,False,0.5,0.5,0,0,0,0
+23,What does the abbreviation WMS represent?,22,170,15.7403,False,0.6309,0.6309,170,15.7749,False,0.6309,0.6309,170,False,0.6309,0.6309,0,0,0,0
+24,What issues did the GAO report regarding the Transportation Security Administration's handling of personal information for the Secure Flight program?,23,23,24.5014,True,1.0,1.0,23,24.2637,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+25,What are some mandates for the EPA under the Pollution Prevention Act?,24,24,20.6913,True,1.0,1.0,24,20.6763,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+26,What are some potential risks associated with AI technologies being used for unwanted robocalls and robotexts?,25,25,22.8187,True,1.0,1.0,25,22.7759,True,1.0,1.0,25,True,1.0,1.0,0,0,0,0
+27,How should the Operating Entity be selected according to the guidelines?,15,15,17.7478,True,1.0,1.0,15,17.8254,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+28,What is the role of the Compensation and Nomination Committee?,26,26,17.5764,True,1.0,1.0,26,17.5112,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+29,What is the strategy of KPMG Hazem Hassan?,27,27,16.5668,True,1.0,1.0,27,16.5376,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+30,What are the informal ways to measure public opinion discussed in the passage?,28,439,20.5861,False,0.5,0.5,439,20.5781,False,0.5,0.5,439,False,0.5,0.5,0,0,0,0
+31,What are the responsibilities of a rating official for an Individual Development Plan (IDP)?,29,29,22.9481,True,1.0,1.0,29,22.9155,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+32,What is the role of the United States in international engagement on digital assets?,30,30,19.1304,True,1.0,1.0,30,18.9954,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+33,What are the steps involved in the withdrawal process of IFAD funds?,4,4,18.7062,True,1.0,1.0,4,18.5596,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+34,What are some key enabling conditions for countries to effectively implement Geographic Information Systems (GIS) across government according to the passage?,9,9,29.3938,True,1.0,1.0,9,29.3784,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+35,What is the role of the Steering Committee in relation to the Program Management Office?,15,15,20.9117,True,1.0,1.0,15,20.8335,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+36,How has the EU's strategy to counter disinformation evolved over time?,31,31,18.6946,True,1.0,1.0,31,18.6458,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+37,What are the numerical and logical operations provided by auditing software?,12,12,19.0962,True,1.0,1.0,12,19.0366,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+38,What is the definition of a Covered Broadband Project?,32,32,17.5291,True,1.0,1.0,32,17.3374,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+39,How can records be selected from multiple files in SCORE?,33,33,16.0197,True,1.0,1.0,33,15.9302,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+40,What are the control techniques mentioned on the page for ensuring payments are made according to the contract?,34,34,19.5474,True,1.0,1.0,34,19.6616,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+41,What are the two dominant research paradigms in the context of language testing and assessment?,35,808,19.8275,False,0.6309,0.6309,808,19.7227,False,0.6309,0.6309,808,False,0.6309,0.6309,0,0,0,0
+42,How does the United States aim to promote international standards on digital payments?,30,30,18.7174,True,1.0,1.0,30,18.6477,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+43,How does the FBMS Tableau application verify user identities?,36,370,16.6937,False,0.6309,0.6309,370,16.7783,False,0.6309,0.6309,370,False,0.6309,0.6309,0,0,0,0
+44,What information was collected for public visitation data?,37,37,16.3134,True,1.0,1.0,37,16.165,True,1.0,1.0,37,True,1.0,1.0,0,0,0,0
+45,What are some updates made in the 4.0 version of the Training Data Feed?,38,38,21.8332,True,1.0,1.0,38,21.6729,True,1.0,1.0,38,True,1.0,1.0,0,0,0,0
+46,What is the purpose of the Bureau of Ocean Energy Management (BOEM)?,39,39,21.4809,True,1.0,1.0,39,21.3652,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+47,What is the aim of the Telecommunications and Other Legislation Amendment (Assistance and Access) Bill passed in Australia?,40,40,24.8843,True,1.0,1.0,40,24.7783,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+48,What security precautions should brick and mortar retailers follow for credit card payments?,41,41,17.3682,True,1.0,1.0,41,17.3477,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+49,What are some key elements that cyber security policies should address?,42,42,19.4004,True,1.0,1.0,42,19.332,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+50,How does KPMG receive feedback from clients?,43,43,13.702,True,1.0,1.0,43,13.6465,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+51,What was the criticism against the proposed bill in Australia requiring communications companies to provide assistance to law enforcement?,40,40,23.4206,True,1.0,1.0,40,23.2363,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+52,What are the goals of the United States regarding digital payment architectures and CBDCs?,30,30,21.1551,True,1.0,1.0,30,21.1511,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+53,What issue related to research methods is raised regarding language testing and assessment?,44,808,18.7146,False,0.6309,0.6309,808,18.6536,False,0.5,0.5,808,False,0.6309,0.6309,0,0,0,0
+54,What is the trust signal score for the consumer industry best-in-class archetype?,45,45,21.5227,True,1.0,1.0,45,21.4131,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+55,What is an example of a company reducing pollution through manufacturing changes?,46,46,17.8241,True,1.0,1.0,46,17.7651,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+56,Can a department grant additional service credit for Reduction In Force based on employees receiving a QSI?,47,47,22.4883,True,1.0,1.0,47,22.4697,True,1.0,1.0,47,True,1.0,1.0,0,0,0,0
+57,What is the meaning of the abbreviation UI?,22,22,15.3216,True,1.0,1.0,22,15.395,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+58,What actions have governments taken to restrict the flow of information during the COVID-19 pandemic?,13,13,22.5706,True,1.0,1.0,13,22.5713,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+59,What is the purpose of age-adjustment in NHANES surveys?,48,48,18.045,True,1.0,1.0,48,18.0513,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+60,What types of authorizations are required for efficient implementation of a project?,2,2,17.6778,True,1.0,1.0,2,17.5693,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+61,What states have legislation for both facility planning prevention and other pollution requirements?,49,49,20.7453,True,1.0,1.0,49,20.6685,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+62,What are the benefits of implementing IPSAS according to the press release?,50,50,19.9107,True,1.0,1.0,50,19.9524,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+63,Which states only have legislation for other pollution requirements?,49,49,17.7997,True,1.0,1.0,49,17.7212,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+64,What types of sensitive information should organizations protect when handling cyber threat information?,51,51,19.6662,True,1.0,1.0,51,19.6533,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+65,What are the procedures for system configuration according to PCI DSS requirements?,52,52,19.0709,True,1.0,1.0,52,19.0625,True,1.0,1.0,52,True,1.0,1.0,0,0,0,0
+66,What are the components of the existing cyberinfrastructure fabric for R&D that the NAIRR must leverage and complement?,11,11,25.9743,True,1.0,1.0,11,25.918,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+67,What kind of countries face challenges in public financial management according to the image?,53,53,21.1391,True,1.0,1.0,53,21.1328,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+68,What are the major behavioral attributes that can lead to vulnerabilities in information systems?,54,54,19.7539,True,1.0,1.0,54,19.7129,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+69,What are some examples of legislation that seek to regulate user consent and establish oversight into interactions with internet providers?,55,55,21.9867,True,1.0,1.0,55,21.7644,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+70,What changes have communities made to their waste collection frequency?,3,473,15.5712,False,0.5,0.5,473,15.5193,False,0.6309,0.6309,473,False,0.5,0.5,0,0,0,0
+71,What steps are involved in configuring system security parameters to prevent misuse?,21,21,18.4698,True,1.0,1.0,21,18.4302,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+72,How should applicants show their ability to deal with stressful situations or environments in a job application?,56,56,21.2906,True,1.0,1.0,56,21.1897,True,1.0,1.0,56,True,1.0,1.0,0,0,0,0
+73,What is the definition of 'open source software' according to this text?,57,57,20.0376,True,1.0,1.0,57,19.9702,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+74,What guidance does LFN 2010-3 provide?,58,58,17.5549,True,1.0,1.0,58,17.5933,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+75,Where can additional information on selecting and contracting with mediators in Oregon be found?,59,59,21.6397,True,1.0,1.0,59,21.5742,True,1.0,1.0,59,True,1.0,1.0,0,0,0,0
+76,What are the key components of the Copyright Office's data strategy that are highlighted as important?,60,60,23.3797,True,1.0,1.0,60,23.2876,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+77,What is the sample size for the 40-49 age group among Non-Hispanic white males?,61,241,23.8027,False,0.6309,0.6309,241,23.7935,False,0.6309,0.6309,241,False,0.6309,0.6309,0,0,0,0
+78,What are the different types of conflict resolution systems?,62,62,18.2999,True,1.0,1.0,62,18.2817,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+79,What are some examples of violations of the right to information and free press related to COVID-19?,13,13,23.7781,True,1.0,1.0,13,23.7153,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+80,"How are regional economic outcomes such as employment, income or firm births affected by government and governance structure?",18,18,22.6143,True,1.0,1.0,18,22.6089,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+81,Why is a collaborative approach preferred over traditional approaches for conflict resolution?,62,62,19.4343,True,1.0,1.0,62,19.3948,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+82,What is the impact of horizontal fragmentation of local governments on metropolitan competitiveness?,18,18,19.5573,True,1.0,1.0,18,19.5811,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+83,What are the responsibilities of the accountant regarding financial reporting?,63,63,18.5875,True,1.0,1.0,63,18.4731,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+84,How should critical security patches be handled according to the requirements?,64,64,17.5776,True,1.0,1.0,64,17.5518,True,1.0,1.0,64,True,1.0,1.0,0,0,0,0
+85,What restrictions are there on transferring funds between cost categories for programs above the Simplified Acquisition Threshold?,65,65,17.7172,True,1.0,1.0,65,17.5725,True,1.0,1.0,65,True,1.0,1.0,0,0,0,0
+86,What is the purpose of correspondence sections or online forums in medical journals?,66,66,18.7887,True,1.0,1.0,66,18.7378,True,1.0,1.0,66,True,1.0,1.0,0,0,0,0
+87,What is dumpster diving and how can it lead to identity theft?,67,67,16.4451,True,1.0,1.0,67,16.3752,True,1.0,1.0,67,True,1.0,1.0,0,0,0,0
+88,What laws prohibit discrimination against unemployed individuals in hiring?,68,68,12.9623,True,1.0,1.0,68,13.0352,True,1.0,1.0,68,True,1.0,1.0,0,0,0,0
+89,What is the key recommendation made by NEJAC regarding the implementation of pollution prevention measures?,69,69,22.1947,True,1.0,1.0,69,22.1555,True,1.0,1.0,69,True,1.0,1.0,0,0,0,0
+90,What is the distinction between a data warehouse and a data repository?,60,60,20.2865,True,1.0,1.0,60,20.208,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+91,What is domain hijacking and how does it work?,67,67,16.76,True,1.0,1.0,67,16.6309,True,1.0,1.0,67,True,1.0,1.0,0,0,0,0
+92,How can insufficient screening or lack of security diligence lead to vulnerabilities?,54,54,15.463,True,1.0,1.0,54,15.4846,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+93,What types of activities or programs does the SAF/IE code involve?,70,70,16.8798,True,1.0,1.0,70,16.5327,True,1.0,1.0,70,True,1.0,1.0,0,0,0,0
+94,What are some considerations for developing an employee Internet usage policy?,42,42,19.3761,True,1.0,1.0,42,19.356,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+95,How many times did the Compensation and Nomination Committee meet in 2020?,26,26,19.8889,True,1.0,1.0,26,19.78,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+96,What does UNF stand for?,22,22,11.9641,True,1.0,1.0,22,11.6064,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+97,What initiatives has the European Union taken to counter disinformation and protect democracy?,31,31,19.2177,True,1.0,1.0,31,19.2563,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+98,What information should the recipient/borrower provide to the auditors before the beginning of the assignment?,71,71,21.3982,True,1.0,1.0,71,21.3965,True,1.0,1.0,71,True,1.0,1.0,0,0,0,0
+99,What should the minimum content of the Project Financial Statements (PFS) include?,71,71,20.79,True,1.0,1.0,71,20.604,True,1.0,1.0,71,True,1.0,1.0,0,0,0,0

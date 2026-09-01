@@ -1,0 +1,101 @@
+query_idx,query,gt_idx,naive_pred,naive_score,naive_correct,naive_ndcg@5,naive_ndcg@10,plaid_pred,plaid_score,plaid_correct,plaid_ndcg@5,plaid_ndcg@10,our_pred,our_correct,our_ndcg@5,our_ndcg@10,ubound_min,ubound_max,actual_score_min,actual_score_max
+0,What is the process for manually labeling trial data in Vicon Nexus?,0,0,19.7809,True,1.0,1.0,0,19.7673,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+1,"What is the micromort, and how is it used in safety analysis?",1,1,18.1148,True,1.0,1.0,1,17.9927,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+2,What is the difference between the straw-man and baseline single-tree update experiments?,2,2,20.4156,True,1.0,1.0,2,20.1985,True,1.0,1.0,2,True,1.0,1.0,0,0,0,0
+3,What commands can be used to display system settings and configurations?,3,3,17.8206,True,1.0,1.0,3,17.8184,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+4,What are some alternative terms used for Bayesian networks mentioned in the text?,4,4,19.3544,True,1.0,1.0,4,19.3367,True,1.0,1.0,4,True,1.0,1.0,0,0,0,0
+5,What did Benjamin Wellington's 2007 PhD thesis at New York University focus on?,5,5,19.5968,True,1.0,1.0,5,19.6799,True,1.0,1.0,5,True,1.0,1.0,0,0,0,0
+6,What is the typical process of the ETTAP program as depicted in the image?,6,6,24.5273,True,1.0,1.0,6,24.4878,True,1.0,1.0,6,True,1.0,1.0,0,0,0,0
+7,How can the orientation of texture be characterized?,7,7,14.5907,True,1.0,1.0,7,14.5317,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+8,What type of motion capture cameras can be integrated into the Vicon MX T-Series system?,8,8,23.871,True,1.0,1.0,8,23.8496,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+9,"What are some of the challenges faced by automotive manufacturers, suppliers, and distributors as described in the passage?",9,9,23.0226,True,1.0,1.0,9,22.9319,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+10,How can you create a web collection in the DL browser?,10,10,19.4657,True,1.0,1.0,10,19.3335,True,1.0,1.0,10,True,1.0,1.0,0,0,0,0
+11,What was the issue with the initial design of the cotton harvesting system and how was it addressed?,11,11,19.4087,True,1.0,1.0,11,19.302,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+12,What is one of the biggest challenges to making an environment clonable for FileNet Content Manager?,12,12,24.242,True,1.0,1.0,12,24.1465,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+13,What is the key algorithmic difference between temporal difference learning and adaptive dynamic programming?,13,13,14.9398,True,1.0,1.0,13,14.98,True,1.0,1.0,13,True,1.0,1.0,0,0,0,0
+14,What is one of the recommended practices mentioned for reducing dependencies?,14,547,12.2936,False,0.0,0.3562,547,12.3828,False,0.4307,0.4307,547,False,0.0,0.3562,0,0,0,0
+15,What are some important works on representing parts and wholes in knowledge representation?,15,15,16.7707,True,1.0,1.0,15,16.5605,True,1.0,1.0,15,True,1.0,1.0,0,0,0,0
+16,What was the purpose of establishing a common reference coordinate between the robot base and plant location?,16,16,22.8953,True,1.0,1.0,16,22.6079,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+17,What are the strategic priorities identified by automotive organizations to position themselves for the future of mobility?,9,9,22.122,True,1.0,1.0,9,21.9507,True,1.0,1.0,9,True,1.0,1.0,0,0,0,0
+18,What is the purpose of the Fluent Fonts feature mentioned in the image?,17,17,15.7478,True,1.0,1.0,17,15.5273,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+19,How does the text characterize the performance of the VE groups in the test condition?,18,18,21.7906,True,1.0,1.0,18,21.5288,True,1.0,1.0,18,True,1.0,1.0,0,0,0,0
+20,What are some potential risks of introducing artificial intelligence agents into corporate boardrooms?,19,19,20.7212,True,1.0,1.0,19,20.7466,True,1.0,1.0,19,True,1.0,1.0,0,0,0,0
+21,What do children with learning disabilities need from their parents?,20,20,18.209,True,1.0,1.0,20,18.1792,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+22,What is the purpose of manually labeling trial data?,0,0,16.7999,True,1.0,1.0,0,16.8479,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+23,What are the recommended actions regarding Hyland's AI-enabled products and services?,21,21,20.9994,True,1.0,1.0,21,21.0081,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+24,What are the possible outcomes of an innovative use of COTS (Commercial Off-The-Shelf) technology in training/education as shown in the image?,6,138,20.403,False,0.3869,0.3869,138,20.5839,False,0.0,0.3562,138,False,0.3869,0.3869,0,0,0,0
+25,What are the main components of the road-following system described in the paper?,22,22,19.2953,True,1.0,1.0,22,19.231,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+26,How are files submitted for Content Analysis in Optimized for Sandboxing Mode?,23,23,18.973,True,1.0,1.0,23,18.9331,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+27,How do you remove a toolbar button or separator from the toolbar?,24,24,18.528,True,1.0,1.0,24,18.5474,True,1.0,1.0,24,True,1.0,1.0,0,0,0,0
+28,"What feature do the T-Series, F-Series, and MX+ cameras from Vicon have?",8,8,25.3844,True,1.0,1.0,8,25.3506,True,1.0,1.0,8,True,1.0,1.0,0,0,0,0
+29,What are the configuration settings for Malware Analysis API?,25,864,15.2993,False,0.6309,0.6309,864,15.3201,False,0.6309,0.6309,864,False,0.6309,0.6309,0,0,0,0
+30,What were the key findings from the experiment comparing MinMerge and Viterbi semiring?,26,26,21.544,True,1.0,1.0,26,21.5466,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+31,What are the two fundamental points that need to be understood regarding students with learning disabilities?,20,20,22.9852,True,1.0,1.0,20,22.8701,True,1.0,1.0,20,True,1.0,1.0,0,0,0,0
+32,How is the conditional log likelihood of the query atoms given the evidence calculated?,27,27,18.1278,True,1.0,1.0,27,18.083,True,1.0,1.0,27,True,1.0,1.0,0,0,0,0
+33,What does the PEI model help evaluate?,28,28,16.1009,True,1.0,1.0,28,16.0723,True,1.0,1.0,28,True,1.0,1.0,0,0,0,0
+34,What strategies do students learn for addition and subtraction problems?,29,29,18.7961,True,1.0,1.0,29,18.7271,True,1.0,1.0,29,True,1.0,1.0,0,0,0,0
+35,What are the two main approaches for solving Markov Decision Processes with continuous state spaces?,30,30,19.3061,True,1.0,1.0,30,19.2993,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+36,How does the Vision module work in the road-following system?,22,22,16.6592,True,1.0,1.0,22,16.6289,True,1.0,1.0,22,True,1.0,1.0,0,0,0,0
+37,What is a switching Kalman filter?,31,31,14.3256,True,1.0,1.0,31,14.291,True,1.0,1.0,31,True,1.0,1.0,0,0,0,0
+38,Why are technology use protocols important?,32,32,15.4107,True,1.0,1.0,32,15.3989,True,1.0,1.0,32,True,1.0,1.0,0,0,0,0
+39,What are the different ways to share Tracker ZIP files?,10,10,19.0098,True,1.0,1.0,10,18.9985,True,1.0,1.0,10,True,1.0,1.0,0,0,0,0
+40,Why were SCAN-ECHO program funds reduced after the first few years?,33,33,17.7853,True,1.0,1.0,33,17.698,True,1.0,1.0,33,True,1.0,1.0,0,0,0,0
+41,What is the approach of EUREX D for dealing with failure superpositions?,34,34,19.535,True,1.0,1.0,34,19.3662,True,1.0,1.0,34,True,1.0,1.0,0,0,0,0
+42,What was the purpose of the Training Workshop on Advanced Learning Technologies and Learning Networks?,35,35,21.3309,True,1.0,1.0,35,21.2161,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+43,What is the difference between an optimized for sandboxing deployment and a two-box deployment in Content Analysis?,23,23,24.6575,True,1.0,1.0,23,24.5918,True,1.0,1.0,23,True,1.0,1.0,0,0,0,0
+44,Where and when was the Training Workshop on Advanced Learning Technologies and Learning Networks held?,35,35,21.181,True,1.0,1.0,35,21.0508,True,1.0,1.0,35,True,1.0,1.0,0,0,0,0
+45,What is the purpose of implementing a central datastore according to the passage?,14,53,13.0773,False,0.6309,0.6309,53,13.0776,False,0.6309,0.6309,53,False,0.6309,0.6309,0,0,0,0
+46,How can you visualize data in a 3D Perspective view pane?,36,36,20.2103,True,1.0,1.0,36,20.1714,True,1.0,1.0,36,True,1.0,1.0,0,0,0,0
+47,How do BNPL lenders seek to differentiate their offerings from legacy credit products according to the text?,37,37,23.8567,True,1.0,1.0,37,23.7954,True,1.0,1.0,37,True,1.0,1.0,0,0,0,0
+48,What is the purpose of the Zero Level function in Nexus?,38,38,15.5207,True,1.0,1.0,38,15.4165,True,1.0,1.0,38,True,1.0,1.0,0,0,0,0
+49,What are some common outcome areas targeted by TAII for different age groups?,39,39,19.8013,True,1.0,1.0,39,19.6631,True,1.0,1.0,39,True,1.0,1.0,0,0,0,0
+50,What is the process for assigning responsibility to another assessor when a question cannot be completed initially?,40,40,23.0841,True,1.0,1.0,40,22.9478,True,1.0,1.0,40,True,1.0,1.0,0,0,0,0
+51,What is the termination condition in parsing algorithms?,41,41,16.5326,True,1.0,1.0,41,16.5225,True,1.0,1.0,41,True,1.0,1.0,0,0,0,0
+52,What is the example used to illustrate the value of information?,42,42,17.4772,True,1.0,1.0,42,17.2397,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+53,What insights does DreamBox provide to education leaders?,43,43,16.1896,True,1.0,1.0,43,16.2378,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+54,What capabilities are offered to fill the gap in offensive operations?,44,44,14.9267,True,1.0,1.0,44,14.8218,True,1.0,1.0,44,True,1.0,1.0,0,0,0,0
+55,What types of terrain are considered suitable for helicopter landing overlays according to the model?,45,45,20.3008,True,1.0,1.0,45,20.1255,True,1.0,1.0,45,True,1.0,1.0,0,0,0,0
+56,What are the main approaches for representing mental objects in Artificial Intelligence?,15,886,16.6763,False,0.0,0.3155,886,16.6694,False,0.0,0.2891,886,False,0.0,0.3155,0,0,0,0
+57,What is Markov Logic Networks?,46,46,14.4651,True,1.0,1.0,46,14.3916,True,1.0,1.0,46,True,1.0,1.0,0,0,0,0
+58,What are the steps to lock and use an event context in Nexus 1.8.5?,47,47,22.2607,True,1.0,1.0,47,22.2148,True,1.0,1.0,47,True,1.0,1.0,0,0,0,0
+59,What are some key aspects of the build process for Java EE and .NET applications mentioned in this passage?,14,14,20.9876,True,1.0,1.0,14,20.7822,True,1.0,1.0,14,True,1.0,1.0,0,0,0,0
+60,What are the two main stages in the lifecycle of most deep learning applications?,48,48,19.0681,True,1.0,1.0,48,18.9165,True,1.0,1.0,48,True,1.0,1.0,0,0,0,0
+61,What is the key difference between SAN and NAS for file storage?,49,49,20.46,True,1.0,1.0,49,20.4043,True,1.0,1.0,49,True,1.0,1.0,0,0,0,0
+62,What are the remote syslog settings for on-box sandboxing?,25,25,19.2838,True,1.0,1.0,25,19.2241,True,1.0,1.0,25,True,1.0,1.0,0,0,0,0
+63,What are some techniques used for compound-protein interaction prediction mentioned in the references?,50,50,20.2754,True,1.0,1.0,50,20.1094,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+64,What are the benefits of using a script-based approach for creating basic structures in IBM FileNet?,12,12,24.0206,True,1.0,1.0,12,23.9341,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+65,What is the key approach used in the PDP architecture?,51,51,17.8353,True,1.0,1.0,51,17.7656,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+66,How does the delivery and assessment of course content differ between traditional and asynchronous courses?,52,52,19.2773,True,1.0,1.0,52,19.2405,True,1.0,1.0,52,True,1.0,1.0,0,0,0,0
+67,What happens when a client at the main location initiates a search request on content residing at the satellite location?,53,53,23.8211,True,1.0,1.0,53,23.7114,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+68,What are the main problem variations described for Markov Decision Processes?,30,30,17.0977,True,1.0,1.0,30,17.0405,True,1.0,1.0,30,True,1.0,1.0,0,0,0,0
+69,What are the dimensions of the Uranus mobile robot?,54,54,16.8722,True,1.0,1.0,54,16.7737,True,1.0,1.0,54,True,1.0,1.0,0,0,0,0
+70,What preparatory steps are required before manually labeling markers?,0,0,15.8043,True,1.0,1.0,0,15.804,True,1.0,1.0,0,True,1.0,1.0,0,0,0,0
+71,What is the satisfiability threshold conjecture in theoretical computer science?,55,55,17.0356,True,1.0,1.0,55,17.019,True,1.0,1.0,55,True,1.0,1.0,0,0,0,0
+72,What are the main components of a common global shutter pixel shown in the image?,56,56,17.1522,True,1.0,1.0,56,16.9536,True,1.0,1.0,56,True,1.0,1.0,0,0,0,0
+73,What information does the Teacher Dashboard Utilization Report provide administrators?,43,43,17.9962,True,1.0,1.0,43,17.8872,True,1.0,1.0,43,True,1.0,1.0,0,0,0,0
+74,How does the Edge Reading View feature in Microsoft Edge help users with learning impairments?,17,17,21.3989,True,1.0,1.0,17,21.333,True,1.0,1.0,17,True,1.0,1.0,0,0,0,0
+75,How is the proposed navigation scheme verified?,57,57,12.0865,True,1.0,1.0,57,12.1211,True,1.0,1.0,57,True,1.0,1.0,0,0,0,0
+76,What are the advantages of potential field control compared to path-planning algorithms?,58,58,21.3682,True,1.0,1.0,58,21.3809,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+77,What is the QALY measure and how is it used?,1,1,18.1166,True,1.0,1.0,1,17.4648,True,1.0,1.0,1,True,1.0,1.0,0,0,0,0
+78,How is an offset origin created?,59,59,13.5976,True,1.0,1.0,59,13.5732,True,1.0,1.0,59,True,1.0,1.0,0,0,0,0
+79,What was the effect of using permissive labeling on the predictions made by the classifiers?,26,26,19.7725,True,1.0,1.0,26,19.7319,True,1.0,1.0,26,True,1.0,1.0,0,0,0,0
+80,What is the purpose of integrating Iron Mountain's Policy Center solution with Hyland's OnBase?,21,21,24.1104,True,1.0,1.0,21,23.8906,True,1.0,1.0,21,True,1.0,1.0,0,0,0,0
+81,What is the purpose of potential field control in robotics?,58,58,18.9864,True,1.0,1.0,58,18.9146,True,1.0,1.0,58,True,1.0,1.0,0,0,0,0
+82,How is kerma divided into components based on interaction types?,60,60,14.545,True,1.0,1.0,60,14.5317,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+83,What is the main argument driving the design of the PDP network?,51,51,19.2184,True,1.0,1.0,51,19.1494,True,1.0,1.0,51,True,1.0,1.0,0,0,0,0
+84,What features make the DSDS very easy to use?,61,61,18.0058,True,1.0,1.0,61,17.8232,True,1.0,1.0,61,True,1.0,1.0,0,0,0,0
+85,What is DiffuSum and what does it do?,62,62,17.2991,True,1.0,1.0,62,17.2529,True,1.0,1.0,62,True,1.0,1.0,0,0,0,0
+86,What is texture in computational vision?,7,7,15.0648,True,1.0,1.0,7,15.0112,True,1.0,1.0,7,True,1.0,1.0,0,0,0,0
+87,What is the problem with the script-based approach for FileNet Content Manager?,12,12,22.6527,True,1.0,1.0,12,22.6074,True,1.0,1.0,12,True,1.0,1.0,0,0,0,0
+88,What are the key components of the mobile robot platform used in this project?,11,11,21.8332,True,1.0,1.0,11,21.8262,True,1.0,1.0,11,True,1.0,1.0,0,0,0,0
+89,What is the key assumption of Invariant Learning in deep learning?,63,63,15.9683,True,1.0,1.0,63,16.104,True,1.0,1.0,63,True,1.0,1.0,0,0,0,0
+90,How much should the oil company pay for the information from the seismologist's survey?,42,42,18.4031,True,1.0,1.0,42,18.1765,True,1.0,1.0,42,True,1.0,1.0,0,0,0,0
+91,What is the consequence if the WAN link between the main and satellite locations has high latency?,53,53,22.7661,True,1.0,1.0,53,22.3115,True,1.0,1.0,53,True,1.0,1.0,0,0,0,0
+92,What is the difference in training time between OSL-M2 and systems that only do weight learning?,64,64,24.1676,True,1.0,1.0,64,23.9924,True,1.0,1.0,64,True,1.0,1.0,0,0,0,0
+93,What are some applications of compound-protein interaction prediction mentioned in the references?,50,50,19.2415,True,1.0,1.0,50,19.0649,True,1.0,1.0,50,True,1.0,1.0,0,0,0,0
+94,How has syntax been incorporated into language models?,65,65,15.8064,True,1.0,1.0,65,15.7803,True,1.0,1.0,65,True,1.0,1.0,0,0,0,0
+95,What loss function is used for combining components in the voted combination method?,66,66,18.1513,True,1.0,1.0,66,18.0415,True,1.0,1.0,66,True,1.0,1.0,0,0,0,0
+96,How can I view the currently defined classification banner message and feature status?,3,3,19.3371,True,1.0,1.0,3,19.2427,True,1.0,1.0,3,True,1.0,1.0,0,0,0,0
+97,What is the definition of kerma in radiation dosimetry?,60,60,18.3104,True,1.0,1.0,60,18.1621,True,1.0,1.0,60,True,1.0,1.0,0,0,0,0
+98,What did the robot monitor to determine when to activate or deactivate the blower motor and blinker?,16,16,20.6708,True,1.0,1.0,16,20.5522,True,1.0,1.0,16,True,1.0,1.0,0,0,0,0
+99,What are the main components of the Multimode Tracker architecture?,67,67,17.9567,True,1.0,1.0,67,17.7314,True,1.0,1.0,67,True,1.0,1.0,0,0,0,0

@@ -1,0 +1,54 @@
+{
+  "timestamp": "20260611_112557",
+  "dataset": "vidore/arxivqa_test_subsampled",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 500,
+  "img_emb_time_s": 0.183,
+  "naive": {
+    "recall@1": 0.774,
+    "ndcg@5": 0.8259,
+    "ndcg@10": 0.8377,
+    "search_time_s": 0.424,
+    "total_time_s": 0.607
+  },
+  "fast_plaid": {
+    "recall@1": 0.774,
+    "ndcg@5": 0.8277,
+    "ndcg@10": 0.8373,
+    "index_build_time_s": 6.878,
+    "search_time_s": 34.903,
+    "total_time_s": 41.964
+  },
+  "global_centroid": {
+    "recall@1": 0.774,
+    "ndcg@5": 0.8259,
+    "ndcg@10": 0.8377,
+    "search_time_s": 104.004,
+    "pruning_rate": 0.0,
+    "total_time_s": 104.187,
+    "gc_avg_ubound_range": [
+      28.0777,
+      41.9313
+    ],
+    "gc_avg_score_range": [
+      7.4218,
+      23.1169
+    ]
+  },
+  "block_centroid": {
+    "recall@1": 0.774,
+    "ndcg@5": 0.8259,
+    "ndcg@10": 0.8377,
+    "search_time_s": 101.96,
+    "pruning_rate": 0.0,
+    "total_time_s": 102.143,
+    "bc_avg_ubound_range": [
+      28.4726,
+      43.42
+    ],
+    "bc_avg_score_range": [
+      7.4218,
+      23.1169
+    ]
+  }
+}

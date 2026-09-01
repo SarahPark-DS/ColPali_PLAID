@@ -1,0 +1,70 @@
+{
+  "timestamp": "20260625_130226",
+  "dataset": "vidore/syntheticDocQA_healthcare_industry_test",
+  "model": "vidore/colpali-v1.3",
+  "n_queries": 100,
+  "img_emb_time_s": 0.165,
+  "naive": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 0.124,
+    "total_time_s": 0.288
+  },
+  "fast_plaid": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9723,
+    "index_build_time_s": 7.199,
+    "search_time_s": 8.641,
+    "total_time_s": 16.005
+  },
+  "global_centroid": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 42.046,
+    "pruning_rate": 0.0,
+    "total_time_s": 42.211,
+    "avg_ubound_range": [
+      21.8216,
+      35.9775
+    ],
+    "avg_score_range": [
+      4.275,
+      19.7124
+    ]
+  },
+  "block_centroid": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 42.009,
+    "pruning_rate": 0.0,
+    "total_time_s": 42.173,
+    "avg_ubound_range": [
+      21.8712,
+      36.798
+    ],
+    "avg_score_range": [
+      4.275,
+      19.7124
+    ]
+  },
+  "box_bound": {
+    "recall@1": 0.94,
+    "ndcg@5": 0.9689,
+    "ndcg@10": 0.9725,
+    "search_time_s": 41.664,
+    "pruning_rate": 0.0,
+    "total_time_s": 41.829,
+    "avg_ubound_range": [
+      20.6456,
+      55.7449
+    ],
+    "avg_score_range": [
+      4.275,
+      19.7124
+    ]
+  }
+}
